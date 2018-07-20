@@ -1,6 +1,7 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
+    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
@@ -22,7 +23,7 @@
     "_text_": "Post",
     "_top_": {
         "type": "string",
-        "value": "71.54%"
+        "value": "3%"
     },
     "_width_": {
         "type": "string",
@@ -31,19 +32,19 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50.03%"
     },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s739214aa37a438ba0a67660c350d220",
-    "id": "Button0c4b77e109ab847",
-    "ide_onClick": "AS_Button_eb58982614be46f09dd5aec33df0b446",
+    "id": "btnPostSocialMedia",
+    "ide_onClick": "AS_Button_c13aa048103b4fc7a212e5930e246edf",
     "info": null,
     "isvisible": true,
     "kuid": "f3a892c5aa2042af9bfd21e0a18a1115",
     "name": "kony.ui.Button",
-    "parent": "frmCreatePost",
+    "parent": "flxCreatePost",
     "pf": "frmCreatePost",
     "wType": "Button",
     "zindex": 1
