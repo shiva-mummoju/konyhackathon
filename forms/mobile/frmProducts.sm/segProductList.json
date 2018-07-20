@@ -48,7 +48,7 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "553dp"
+        "value": "504dp"
     },
     "_indicator_": "none",
     "_left_": {
@@ -70,7 +70,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "49dp"
     },
     "_width_": {
         "type": "string",
@@ -125,7 +125,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "singleselect",
     "selectionbehaviorconfig": {},
     "separatorcolor": "b8b6b803",

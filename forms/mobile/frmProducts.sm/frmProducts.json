@@ -29,7 +29,8 @@
     "canUpdateUI": true,
     "children": [
         "componentBottomBar",
-        "segProductList"
+        "segProductList",
+        "componentTopBar"
     ],
     "containerweight": 100,
     "currentLocale": "default",
