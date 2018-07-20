@@ -361,7 +361,6 @@
     <attributes name="wp81spackagepublichernamekey" value="Kony"/>
     <attributes name="HARDWARE_TEST" value="false"/>
     <attributes name="androidenablejsbindings" value="false"/>
-<<<<<<< HEAD
     <attributes name="tcandroid240basefontsize" value="12"/>
     <attributes name="post_notification" value="false"/>
     <attributes name="certs_key_store_pwd" value="kds/0eUc+i3BqFqSkpCk4g=="/>
@@ -569,11 +568,4 @@
     <attributes name="spaandroidtab800basefontsize" value="12"/>
     <attributes name="cloud_env_GUID" value=""/>
     <attributes name="defaultlocalekey" value=""/>
-=======
-    <attributes name="cloud_url" value="https://training.konycloud.com"/>
-    <attributes name="cloud_env_name" value="Training - Kony-TrngMobileFabric"/>
-    <attributes name="cloud_env_GUID" value="10e11b02-97a1-45e4-9eec-bfc5c0a2af9c"/>
-    <attributes name="cloud_account_id" value="100000507"/>
-    <attributes name="cloud_account_guid" value="dde09d15-b97d-4af6-b9ce-01133e3979f3"/>
->>>>>>> d39a9ec588bb733235f75b1fffeb9d4fb0ffc45e
 </properties>

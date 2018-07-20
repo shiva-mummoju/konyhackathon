@@ -18,20 +18,20 @@
         0,
         0
     ],
-    "_skin_": "se320385c09b4385812c12775953a668",
-    "_text_": "Button",
+    "_skin_": "saffd4e388a845e8926349254a26567e",
+    "_text_": "Post",
     "_top_": {
         "type": "string",
-        "value": "80%"
+        "value": "71.54%"
     },
     "_width_": {
         "type": "string",
-        "value": "260dp"
+        "value": "80%"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "contentalignment": 5,

@@ -70,11 +70,9 @@
     ],
     "_top_": {
         "type": "string",
-<<<<<<< HEAD
+
         "value": "5%"
-=======
-        "value": "0%"
->>>>>>> d39a9ec588bb733235f75b1fffeb9d4fb0ffc45e
+
     },
     "_width_": {
         "type": "string",

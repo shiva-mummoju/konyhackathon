@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "43dp"
+        "value": "20%"
     },
     "_margin_": [
         2,
@@ -28,12 +28,13 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "30%"
+        "value": "3%"
     },
     "_width_": {
         "type": "string",
         "value": "80%"
     },
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -47,7 +48,7 @@
     "containerheight": "",
     "containerheightmode": 1,
     "containerweight": 100,
-    "contentalignment": 1,
+    "contentalignment": 5,
     "id": "txtAreaDescription",
     "info": null,
     "isvisible": true,

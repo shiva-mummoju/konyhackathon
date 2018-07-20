@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "40dp"
+        "value": "20dp"
     },
     "_margin_": [
         0,
@@ -22,22 +22,26 @@
         0,
         0
     ],
-    "_placeholder_": "",
-    "_skin_": "s33a8750ea0e496ca3cce25bb68594b3",
-    "_text_": "TextBox2",
+    "_placeholder_": "Title",
+    "_skin_": "s315ec20772343ba9e4abf169fd315c1",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "310dp"
+        "value": "3%"
     },
     "_width_": {
         "type": "string",
-        "value": "260dp"
+        "value": "80%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
     "autofilter": false,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerheight": "",
     "containerheightmode": 1,
     "containerweight": 100,
