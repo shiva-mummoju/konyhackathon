@@ -23,6 +23,10 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "80%"
+    },
     "_skin_": "s65c2eee1256460da7e57f33d90bd9ff",
     "_src_": "imagedrag.png",
     "_top_": {

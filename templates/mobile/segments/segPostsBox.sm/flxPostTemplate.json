@@ -26,7 +26,8 @@
         "imgPosts",
         "lblPostTitle",
         "lblPostProducts",
-        "PostShareCount"
+        "PostShareCount",
+        "lblShare"
     ],
     "clipbounds": true,
     "containerId": true,

@@ -3,7 +3,10 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_children_": [],
-    "_height_": "8%",
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
     "_left_": {
         "type": "string",
         "value": "0dp"
@@ -44,6 +47,11 @@
                 "srcKUID": "d8624ff5fef24ca78649753806dd6d0b",
                 "wType": "FlexContainer"
             },
+            "autogrowMode": 0,
+            "height": {
+                "type": "string",
+                "value": "10%"
+            },
             "left": {
                 "type": "string",
                 "value": "0dp"
@@ -76,7 +84,8 @@
                 "kuid": "c781c9b8c3d847c8a95625bf3c03ce63",
                 "srcKUID": "jb57f2c725064f01945519721b246bc7",
                 "wType": "Label"
-            }
+            },
+            "text": "Products"
         }
     },
     "id": "componentTopBar",

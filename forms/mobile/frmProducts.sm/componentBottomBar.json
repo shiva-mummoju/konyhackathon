@@ -30,7 +30,7 @@
     "_skin_": "sf315405b5004a77bff02788ca62a1bf",
     "_top_": {
         "type": "string",
-        "value": "553dp"
+        "value": "90%"
     },
     "_width_": "100%",
     "areflexpropsreferenced": false,
@@ -57,7 +57,7 @@
             },
             "top": {
                 "type": "string",
-                "value": "553dp"
+                "value": "90%"
             },
             "zIndex": 1
         },
