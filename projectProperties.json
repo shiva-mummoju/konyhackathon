@@ -188,5 +188,6 @@
         "osVersion": "iOS7",
         "osPlatform": "",
         "wType": "Appmenu"
-    }
+    },
+    "enableCordova": false
 }

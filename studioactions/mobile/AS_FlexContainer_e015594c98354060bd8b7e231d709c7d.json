@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_e015594c98354060bd8b7e231d709c7d": {
+        "id": "AS_FlexContainer_e015594c98354060bd8b7e231d709c7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreatePost",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h624f12adb3d49eda76ffbceed47e254"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___f1fd314687b040a9abfa9fac146efaf6",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmCreatePost",
+            "widgetId": "flxinvisible",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "h624f12adb3d49eda76ffbceed47e254",
+            "widgetKUID": "f1c238a9b35342c9aab5882bc59813f5",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmCreatePost.flxinvisible"
+        }]
+    }
+}

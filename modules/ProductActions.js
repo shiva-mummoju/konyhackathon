@@ -43,9 +43,7 @@ function kdv_createChartWidget() {
 function kdv_createChartJSObject() {    
     var chartInfo = {
         "chartProperties": {
-            "chartHeight": 250
-          
-          ,
+            "chartHeight": 250,
             "title": {
                 "text": "Bill History - Normal",
                 "font": {

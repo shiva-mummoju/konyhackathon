@@ -8,7 +8,11 @@
     },
     "_left_": {
         "type": "string",
+<<<<<<< HEAD
         "value": "46dp"
+=======
+        "value": "129dp"
+>>>>>>> 9880847435f17c8dab0a294a949f0f1c1fd07f44
     },
     "_margin_": [
         6,
@@ -22,6 +26,7 @@
         0,
         0
     ],
+<<<<<<< HEAD
     "_skin_": "sa8ccfc292ce4c40a3c67b32d18f1a6d",
     "_text_": "Post",
     "_top_": {
@@ -44,6 +49,33 @@
     "kuid": "b990936cbf2b42c896a69e284a69f49e",
     "name": "kony.ui.Button",
     "parent": "FlexContainer0hfe8fb2c5c8445",
+=======
+    "_skin_": "sa59990cde634203ab8fcefb4e098e5c",
+    "_text_": "Post",
+    "_top_": {
+        "type": "string",
+        "value": "77%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "103dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s739214aa37a438ba0a67660c350d220",
+    "id": "btnPost",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d1a2d0b39c07409f8280f79e42dd7857",
+    "name": "kony.ui.Button",
+    "parent": "flxCreatePost",
+>>>>>>> 9880847435f17c8dab0a294a949f0f1c1fd07f44
     "pf": "frmCreatePost",
     "wType": "Button",
     "zindex": 1
