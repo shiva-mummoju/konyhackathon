@@ -36,11 +36,11 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "imgProducts",
-        "imgCoupons",
-        "imgAddPost",
-        "imgHistory",
-        "imgUser"
+        "flxSuperShopping",
+        "flxSuperCoupons",
+        "flxSuperAdd",
+        "flxSuperUser",
+        "flxSuperHistory"
     ],
     "clipbounds": true,
     "containerweight": 100,

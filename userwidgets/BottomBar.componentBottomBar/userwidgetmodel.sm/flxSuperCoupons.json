@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "92.27%"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "5.00%"
     },
     "_margin_": [
         0,
@@ -26,34 +26,33 @@
     "_skin_": "s777f81865bf43099a93274e0c813365",
     "_top_": {
         "type": "string",
-        "value": "49dp"
+        "value": "7dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "50dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
+    "centery": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50%"
     },
     "children": [
-        "Image0ca5603929de945",
-        "btnPost"
+        "imgCoupons"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainer0hfe8fb2c5c8445",
+    "id": "flxSuperCoupons",
     "info": null,
     "isvisible": true,
-    "kuid": "f255a05ca2b14858b4bdfc98096e9297",
-    "layouttype": 4,
+    "kuid": "afaa2ea5e80b4eb58ad1c77dd2cab8b2",
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmCreatePost",
-    "pf": "frmCreatePost",
+    "parent": "componentBottomBar",
+    "pf": "userwidgetmodel",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

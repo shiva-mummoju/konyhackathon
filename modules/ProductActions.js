@@ -207,4 +207,8 @@ function kdv_createChartJSObject() {
         }
     };
     return chartInfo;
-};
+}
+
+
+
+

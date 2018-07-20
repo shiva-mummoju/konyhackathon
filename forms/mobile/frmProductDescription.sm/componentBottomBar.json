@@ -70,44 +70,44 @@
             },
             "zIndex": 1
         },
-        "imgAddPost": {
+        "flxSuperAdd": {
             "__events__": {},
             "__info__": {
-                "kuid": "fdb140e766bc4841a50efef822bcc3e2",
-                "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
-                "wType": "Image"
+                "kuid": "fae2391ab80346998e50e7adaa9ed1e7",
+                "srcKUID": "cbd27bf8813e44899de2a39cc770d144",
+                "wType": "FlexContainer"
             }
         },
-        "imgCoupons": {
+        "flxSuperCoupons": {
             "__events__": {},
             "__info__": {
-                "kuid": "j8a857b16be04b70bb4fed58d4c5fdf3",
-                "srcKUID": "g8dab9714f4746ca972c78fce0928232",
-                "wType": "Image"
+                "kuid": "g01cf75ffae54782bfef3b40a938f365",
+                "srcKUID": "afaa2ea5e80b4eb58ad1c77dd2cab8b2",
+                "wType": "FlexContainer"
             }
         },
-        "imgHistory": {
+        "flxSuperHistory": {
             "__events__": {},
             "__info__": {
-                "kuid": "j8ecd85ca12e4afb9bf2a5e1154e2f0b",
-                "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
-                "wType": "Image"
+                "kuid": "i9169371dc7c463c802f9e21496ac181",
+                "srcKUID": "b2a2216a59c84c089b76d3c1bd585cfd",
+                "wType": "FlexContainer"
             }
         },
-        "imgProducts": {
+        "flxSuperShopping": {
             "__events__": {},
             "__info__": {
-                "kuid": "e3ce71d673dd451993edf96f61415ca9",
-                "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
-                "wType": "Image"
+                "kuid": "fecd75e4a7c44c8095a59e3e77895ded",
+                "srcKUID": "cfa77b6304734c9787f4082e05bb1321",
+                "wType": "FlexContainer"
             }
         },
-        "imgUser": {
+        "flxSuperUser": {
             "__events__": {},
             "__info__": {
-                "kuid": "d36002c279bc45eb9752ffc2754cbc1e",
-                "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
-                "wType": "Image"
+                "kuid": "c5ac4c07c8e146d584fec69d7369028e",
+                "srcKUID": "bd602b0d65164c72bbfd010aaa0c3363",
+                "wType": "FlexContainer"
             }
         }
     },

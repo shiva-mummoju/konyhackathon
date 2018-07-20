@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50.25%"
+        "value": "50%"
     },
     "containerweight": 100,
     "context": {
@@ -48,12 +48,13 @@
         "topLevelBox": null
     },
     "id": "imgUser",
+    "ide_onTouchStart": "AS_Image_eba34948a2cf40b48d926ac7b8b1fb35",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
     "kuid": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
     "name": "kony.ui.Image2",
-    "parent": "componentBottomBar",
+    "parent": "flxSuperUser",
     "pf": "userwidgetmodel",
     "srcType": 1,
     "wType": "Image",

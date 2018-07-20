@@ -8,7 +8,7 @@
     "currentgaversion": "7.3.0",
     "appversionkey": "1.0.0",
     "project.type": "js",
-    "startupformkey": "frmCreatePost",
+    "startupformkey": "frmLogin",
     "vendornamekey": "KonyLabs",
     "createdgaversion": "7.3.0",
     "konyVizVersion": "7.3.0",
@@ -28,7 +28,7 @@
     "mwhttpsportkey": "",
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
-        "isModified": true,
+        "isModified": false,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false
@@ -188,6 +188,5 @@
         "osVersion": "iOS7",
         "osPlatform": "",
         "wType": "Appmenu"
-    },
-    "enableCordova": false
+    }
 }

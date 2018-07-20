@@ -61,10 +61,58 @@
             },
             "zIndex": 1
         },
+        "flxSuperAdd": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_g4f628dc403a462c9dcdef6fc22d1bc7"
+            },
+            "__info__": {
+                "kuid": "j3ca5acb80574992af58b819aa2f4e48",
+                "srcKUID": "cbd27bf8813e44899de2a39cc770d144",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSuperCoupons": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b4e24565e2e14cff930406c0e809ca76",
+                "srcKUID": "afaa2ea5e80b4eb58ad1c77dd2cab8b2",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSuperHistory": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_i40111036398447296d24132097bca09"
+            },
+            "__info__": {
+                "kuid": "babaa88b7de14bbe95e3460e3db5e068",
+                "srcKUID": "b2a2216a59c84c089b76d3c1bd585cfd",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSuperShopping": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_a975978fa2394a428873d851636473a0"
+            },
+            "__info__": {
+                "kuid": "b617ef4051654df49e190664dd3d7d40",
+                "srcKUID": "cfa77b6304734c9787f4082e05bb1321",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSuperUser": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_b2561a2977a74832baa94222353dc3fc"
+            },
+            "__info__": {
+                "kuid": "d26f57e61a1348198c1cfa970ae6bba4",
+                "srcKUID": "bd602b0d65164c72bbfd010aaa0c3363",
+                "wType": "FlexContainer"
+            }
+        },
         "imgAddPost": {
             "__events__": {},
             "__info__": {
-                "kuid": "d1117503887148afaf660d04299f130b",
+                "kuid": "dbc4cecee597489a984ec6d48052f369",
                 "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
                 "wType": "Image"
             }
@@ -72,7 +120,7 @@
         "imgCoupons": {
             "__events__": {},
             "__info__": {
-                "kuid": "a8ab1e0978624afdbbbc40f1036bed9d",
+                "kuid": "c3d56d43c639465cbc9bf1a5d9a89b8d",
                 "srcKUID": "g8dab9714f4746ca972c78fce0928232",
                 "wType": "Image"
             }
@@ -80,7 +128,7 @@
         "imgHistory": {
             "__events__": {},
             "__info__": {
-                "kuid": "a57591577fe747bebecae4fff3d0d21e",
+                "kuid": "g884385c76e542e9afe7f4fe7d662e73",
                 "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
                 "wType": "Image"
             }
@@ -88,7 +136,7 @@
         "imgProducts": {
             "__events__": {},
             "__info__": {
-                "kuid": "f098ea1306114d3c83abe383144c664f",
+                "kuid": "faf8e0f3183349398eadb733fbf3e7e9",
                 "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
                 "wType": "Image"
             }
@@ -96,7 +144,7 @@
         "imgUser": {
             "__events__": {},
             "__info__": {
-                "kuid": "b032708b792c4a64aee1e7f4ea8f9621",
+                "kuid": "ab4a8b7f084d43d3a29a80a5d0e8d9ba",
                 "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
                 "wType": "Image"
             }

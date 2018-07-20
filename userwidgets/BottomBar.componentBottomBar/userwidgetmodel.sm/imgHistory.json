@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50.25%"
+        "value": "50%"
     },
     "containerweight": 100,
     "context": {
@@ -48,12 +48,13 @@
         "topLevelBox": null
     },
     "id": "imgHistory",
+    "ide_onTouchStart": "AS_Image_cbd59872ccd948fbb795c0f65524b75f",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
     "kuid": "c2bc9b9c5037432f8d7aeb988c43ee32",
     "name": "kony.ui.Image2",
-    "parent": "componentBottomBar",
+    "parent": "flxSuperHistory",
     "pf": "userwidgetmodel",
     "srcType": 1,
     "wType": "Image",

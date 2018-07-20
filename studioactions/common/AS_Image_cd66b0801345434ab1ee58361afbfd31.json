@@ -1,0 +1,32 @@
+{
+    "AS_Image_cd66b0801345434ab1ee58361afbfd31": {
+        "id": "AS_Image_cd66b0801345434ab1ee58361afbfd31",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "uwu504af98f0084d91889c478b1916573f",
+            "type": "userwidgets",
+            "KUID": "u504af98f0084d91889c478b1916573f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d1b4be2b348c4a05861cf8bb9dea912c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "userNav",
+            "display": "userNav",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

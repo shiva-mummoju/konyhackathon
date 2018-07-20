@@ -29,7 +29,8 @@
     "children": [
         "flexImage",
         "segmentOtherDetails",
-        "flxGraph"
+        "flxGraph",
+        "componentBottomBar"
     ],
     "containerweight": 100,
     "currentLocale": "default",
