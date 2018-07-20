@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "47dp"
+        "value": "40dp"
     },
     "_margin_": [
         0,
@@ -22,35 +22,31 @@
         0,
         0
     ],
-    "_placeholder_": "HashTags",
-    "_skin_": "s7386da08bfd48fe8121532d58da820e",
-    "_text_": "",
+    "_placeholder_": "",
+    "_skin_": "s33a8750ea0e496ca3cce25bb68594b3",
+    "_text_": "TextBox2",
     "_top_": {
         "type": "string",
-        "value": "61.54%"
+        "value": "310dp"
     },
     "_width_": {
         "type": "string",
-        "value": "280dp"
+        "value": "260dp"
     },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
     "autofilter": false,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50.00%"
-    },
     "containerheight": "",
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "txtfield",
+    "id": "txtPostTitle",
     "info": null,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "g9b9791dc49d47159aeeda612188391d",
+    "kuid": "b36fa9213426411d8cd8caf900738ee4",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "flxCreatePost",

@@ -8,69 +8,25 @@
     },
     "_data_": [
         {
-            "PostShareCount": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "2"
-            },
             "imgPosts": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "amwayproduct.png"
+                "src": ""
             },
             "lblPostProducts": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Nutrition"
+                "text": ""
             },
             "lblPostTitle": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "First Post"
+                "text": ""
             },
             "lblShare": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "shares"
-            }
-        },
-        {
-            "PostShareCount": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "4"
+                "text": ""
             },
-            "imgPosts": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "amwayproduct.png"
-            },
-            "lblPostProducts": {
+            "lblShareCount": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Sports"
-            },
-            "lblPostTitle": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Second Post"
-            },
-            "lblShare": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "shares"
-            }
-        },
-        {
-            "PostShareCount": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "6"
-            },
-            "imgPosts": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "amwayproduct.png"
-            },
-            "lblPostProducts": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Sports"
-            },
-            "lblPostTitle": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Third Post"
-            },
-            "lblShare": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "shares"
+                "text": ""
             }
         }
     ],
@@ -107,7 +63,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "02",
+    "counter": "00",
     "focusedindex": null,
     "focuseditem": null,
     "groupcells": false,
@@ -139,7 +95,7 @@
     "pf": "frmPostHistory",
     "retainselection": false,
     "rowTemplateId": "db2225d3b17a4c1db8ced2be4c299743",
-    "rowcounter": 2,
+    "rowcounter": 0,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
     "rowskin": "s0eff9639ef04661b617b8ca8c84dc32",
     "rowtemplate": "flxPostTemplate",
@@ -151,7 +107,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "default",
     "separatorcolor": "64646400",
     "separatorrequired": true,
@@ -161,12 +117,12 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "PostShareCount": "PostShareCount",
         "flxPostTemplate": "flxPostTemplate",
         "imgPosts": "imgPosts",
         "lblPostProducts": "lblPostProducts",
         "lblPostTitle": "lblPostTitle",
-        "lblShare": "lblShare"
+        "lblShare": "lblShare",
+        "lblShareCount": "lblShareCount"
     },
     "zindex": 1
 }

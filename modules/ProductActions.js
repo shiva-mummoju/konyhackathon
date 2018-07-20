@@ -166,7 +166,19 @@ function kdv_createChartJSObject() {
                 "values": ["c1"]
             },
             "data": {
-                "c1": [10,20,30,40,50,30,70,80,20,40,80,40]
+                "c1": [Math.floor(Math.random()*100),
+                       Math.floor(Math.random()*100),
+                      Math.floor(Math.random()*100) ,
+                       Math.floor(Math.random()*100),
+                       Math.floor(Math.random()*100),
+                      Math.floor(Math.random()*100) ,
+                       Math.floor(Math.random()*100),
+                      Math.floor(Math.random()*100) ,
+                      Math.floor(Math.random()*100) ,
+                      Math.floor(Math.random()*100) ,
+                      Math.floor(Math.random()*100) ,
+                      Math.floor(Math.random()*100)
+                      ]
             }
         },
         "chartEvents": {

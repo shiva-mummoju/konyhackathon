@@ -6,10 +6,6 @@
         "type": "string",
         "value": "50dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "53dp"
-    },
     "_margin_": [
         6,
         6,
@@ -22,15 +18,15 @@
         0,
         0
     ],
-    "_skin_": "s3a79f9a712b4a1c8ff53f3c2b7dd403",
-    "_text_": "Offers",
+    "_skin_": "se320385c09b4385812c12775953a668",
+    "_text_": "Button",
     "_top_": {
         "type": "string",
-        "value": "65%"
+        "value": "80%"
     },
     "_width_": {
         "type": "string",
-        "value": "200dp"
+        "value": "260dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -41,12 +37,13 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s739214aa37a438ba0a67660c350d220",
-    "id": "btnOffers",
+    "id": "Button0c4b77e109ab847",
+    "ide_onClick": "AS_Button_eb58982614be46f09dd5aec33df0b446",
     "info": null,
     "isvisible": true,
-    "kuid": "c1ac401978164615aaf52f44edca4f6b",
+    "kuid": "f3a892c5aa2042af9bfd21e0a18a1115",
     "name": "kony.ui.Button",
-    "parent": "flxCreatePost",
+    "parent": "frmCreatePost",
     "pf": "frmCreatePost",
     "wType": "Button",
     "zindex": 1

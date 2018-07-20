@@ -18,6 +18,7 @@ function openMediaGallery()
 			//(convert the rawbytes to base64 and can be assigned 
 			//to a image widget or use base64 to upload)
 			var base64 = kony.convertToBase64(rawbytes);
+          	currentImage = rawbytes;
             
 			frmCreatePost.flextest.imgPost.base64 = base64;
             frmCreatePost.flxCreatePost.isVisible = true;
@@ -44,6 +45,10 @@ function cameraData(cam){
   frmCreatePost.imgPost.rawBytes = cam.rawBytes;
    frmCreatePost.flxCreatePost.isVisible = true;
     frmCreatePost.flxinvisible.isVisible = false;
+  
+  
+    currentImage = cam.rawBytes;
+
   //var base64 = kony.convertToBase64(rawBytes);
             
  //frmCreatePost.flextest.imgPost.rawBytes = cam;

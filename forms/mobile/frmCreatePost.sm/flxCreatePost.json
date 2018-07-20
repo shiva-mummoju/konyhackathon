@@ -33,9 +33,9 @@
     "children": [
         "flextest",
         "txtfield",
-        "btnOffers",
         "btnPost",
-        "txtAreaDescription"
+        "txtAreaDescription",
+        "txtPostTitle"
     ],
     "clipbounds": true,
     "containerweight": 100,

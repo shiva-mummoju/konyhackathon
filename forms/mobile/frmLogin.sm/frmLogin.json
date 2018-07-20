@@ -37,6 +37,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmLogin",
+    "ide_init": "AS_Form_bc0b8f04744541b7b89c9c429ba7cad5",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
