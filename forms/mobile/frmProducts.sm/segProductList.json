@@ -3,9 +3,48 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_data_": [
-        {},
-        {},
-        {}
+        {
+            "imgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblProductDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblProductDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblProductDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
     ],
     "_height_": {
         "type": "string",
@@ -46,7 +85,7 @@
     "focuseditem": null,
     "groupcells": false,
     "hasSections": false,
-    "id": "Segment0e10fa586feb540",
+    "id": "segProductList",
     "info": null,
     "ipad": {
         "psp": {
@@ -72,11 +111,11 @@
     "parent": "frmProducts",
     "pf": "frmProducts",
     "retainselection": false,
-    "rowTemplateId": null,
+    "rowTemplateId": "c966bc6cb625483b9e2774cc6964a2ed",
     "rowcounter": 2,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
     "rowskin": "s0eff9639ef04661b617b8ca8c84dc32",
-    "rowtemplate": null,
+    "rowtemplate": "flxProductBox",
     "screenlevelwidget": false,
     "seccounter": 0,
     "sectionHeaderTemplateId": null,
@@ -86,16 +125,22 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "singleselect",
     "selectionbehaviorconfig": {},
-    "separatorcolor": "64646464",
+    "separatorcolor": "b8b6b803",
     "separatorrequired": true,
-    "separatorthickness": 0,
+    "separatorthickness": 1,
     "showscrollbars": false,
     "viewtype": "tableview",
     "wType": "Segment",
     "widgetalignment": 5,
-    "widgetdatamap": {},
+    "widgetdatamap": {
+        "flxProductBox": "flxProductBox",
+        "flxProductInfo": "flxProductInfo",
+        "imgProduct": "imgProduct",
+        "lblProductDescription": "lblProductDescription",
+        "lblProductName": "lblProductName"
+    },
     "zindex": 1
 }
