@@ -6,18 +6,21 @@ function onPostRowClicked(eventObject,sectionNumber,rowNumber){
 
   
 	 var selectedObj = frmPostHistory.flxPosts.segPosts.selectedRowItems[0];
-//   alert(JSON.stringify(selectedObj));
+  alert(JSON.stringify(selectedObj));
   var postTitle = selectedObj.lblPostTitle;
   var postProduct = selectedObj.lblPostProducts;
   var postImg = selectedObj.imgPosts;
-  var shareCount = selectedObj.PostShareCount;
+  var shareCount = selectedObj.lblShareCount;
+  var postDesc = selectedObj.txtAreaDescription;
+  var likesCount = selectedObj.lblLikeCount;
+  var viewCount = selectedObj.lblViewCount;
   
-  frmPostSpecific.imgPostSpecific.src = postImg;
+  frmPostSpecific.imgPostSpecific.base64 = kony.convertToBase64(postImg.rawBytes);
   frmPostSpecific.lblPostTitle.text  = postTitle;
-  frmPostSpecific.lblPostInfo.text = "This is a really nice product from Amway!";
+  frmPostSpecific.lblPostInfo.text = postDesc;
   frmPostSpecific.lblShareCount.text = shareCount;
-  frmPostSpecific.lblLikeCount.text = "10";
-  frmPostSpecific.lblViewCount.txt = "20";
+  frmPostSpecific.lblLikeCount.text = likesCount;
+  frmPostSpecific.lblViewCount.txt = viewCount;
   
   frmPostSpecific.show();
 

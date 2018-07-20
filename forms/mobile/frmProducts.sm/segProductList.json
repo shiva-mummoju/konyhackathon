@@ -48,7 +48,7 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "491dp"
+        "value": "90%"
     },
     "_indicator_": "none",
     "_left_": {
@@ -70,7 +70,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "62dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",

@@ -16,7 +16,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__ce796a8f835645f1a5e927898d0146b7",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "",
+            "codeSnippet": "\n\n\n\n\nif(data){\n  \n//   \tvar arr_of_posts = JSON.parse(data1);\n\tfrmPostHistory.segPosts.setData(data);\n\t\n}",
             "parentId": null,
             "callbackType": null
         }]
