@@ -15,35 +15,29 @@
         0
     ],
     "_percent_": true,
-<<<<<<< HEAD
-    "_skin_": "sdc22cd2d4d747fca5f6c2c54cd89c9a",
-=======
-    "_skin_": "s2c2cc4f19c44969b932f6e52a57be93",
->>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
+    "_skin_": "sdba34c76abc4cc295b8e04724a0d662",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
-<<<<<<< HEAD
         "needAppMenu": false,
-=======
->>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
         "psp": {
             "windowSoftInputMode": 2
-        }
+        },
+        "titleBar": false
     },
     "canUpdateUI": true,
     "children": [
-<<<<<<< HEAD
-        "flxCreatePost",
-        "flxinvisible",
-        "flxSocialMedia"
-=======
-        "FlexContainer0hfe8fb2c5c8445",
-        "componentTopBar"
->>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
+        "componentBottomBar",
+        "flexWhole",
+        "imgAmway"
     ],
     "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile"
+        }
+    },
     "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
@@ -51,7 +45,7 @@
     "device": "GalaxyS5",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmCreatePost",
+    "id": "frmCatogiries",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -61,10 +55,7 @@
         }
     },
     "iphone": {
-<<<<<<< HEAD
         "needAppMenu": false,
-=======
->>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
@@ -80,35 +71,24 @@
                 "titleBarRightSideView": "button",
                 "titleClosureLeftSideView": "",
                 "titleClosureRightSideView": "",
-<<<<<<< HEAD
-                "visible": false
-            }
-        },
-        "titleBar": false
-    },
-    "isvisible": true,
-    "kuid": "h624f12adb3d49eda76ffbceed47e254",
-=======
                 "visible": true
             }
         },
         "titleBar": true
     },
     "isvisible": true,
-    "kuid": "ca20f275dfea49c69cf283d022c87a06",
->>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
+    "kuid": "ebf77876a4474f269457f1d3224f849a",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "android",
-    "prevDevice": "iPhone6",
-    "prevPlatform": "iphone",
+    "prevDevice": "WinMob",
+    "prevPlatform": "spawinphone8",
     "retainscrollposition": false,
     "shellCSS": "and_GalaxyS5",
     "snapgridsize": 10,
     "snaptogrid": true,
-<<<<<<< HEAD
     "spaan": {
         "needAppMenu": false
     },
@@ -128,10 +108,4 @@
     "winphone8": {
         "needAppMenu": false
     }
-=======
-    "titleBarSkin": "s75b57c166b3414e8ba094722616a477",
-    "titlebar": true,
-    "type": 3,
-    "wType": "Form"
->>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
 }

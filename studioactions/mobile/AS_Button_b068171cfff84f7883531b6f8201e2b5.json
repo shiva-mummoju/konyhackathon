@@ -1,0 +1,18 @@
+{
+    "AS_Button_b068171cfff84f7883531b6f8201e2b5": {
+        "id": "AS_Button_b068171cfff84f7883531b6f8201e2b5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreatePost",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h624f12adb3d49eda76ffbceed47e254"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
