@@ -10,15 +10,15 @@
             },
             "lblConsumerName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Consumer Name"
+                "text": "Uttej"
             },
             "lblPrice": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "price"
+                "text": "Rs. 200"
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "product "
+                "text": "Shampoo"
             }
         },
         {
@@ -28,39 +28,21 @@
             },
             "lblConsumerName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Consumer Name"
+                "text": "Shiva"
             },
             "lblPrice": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "price"
+                "text": "Rs. 120"
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "product "
-            }
-        },
-        {
-            "imgConsumer": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
-            },
-            "lblConsumerName": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Consumer Name"
-            },
-            "lblPrice": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "price"
-            },
-            "lblProductName": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "product "
+                "text": "Tooth Brush"
             }
         }
     ],
     "_height_": {
         "type": "string",
-        "value": "60%"
+        "value": "114.37%"
     },
     "_indicator_": "none",
     "_left_": {
@@ -82,7 +64,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "405dp"
+        "value": "385dp"
     },
     "_width_": {
         "type": "string",
@@ -91,7 +73,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "02",
+    "counter": "01",
     "focusedindex": null,
     "focuseditem": null,
     "groupcells": false,
@@ -123,7 +105,7 @@
     "pf": "frmUserProfile",
     "retainselection": false,
     "rowTemplateId": "a2c244ef4f8a45859bcf42bbb5a6e0af",
-    "rowcounter": 2,
+    "rowcounter": 1,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
     "rowskin": "s80a2c1572c447898f97c1113c85f148",
     "rowtemplate": "flxTrasactions",
@@ -135,7 +117,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "64646400",
     "separatorrequired": true,

@@ -1,29 +1,4 @@
-//Type your code here
 
-//this function takes the information of clicked product and shows a new form with populated info 
-
-function populateProductDecription(eventObject,sectionNumber,rowNumber)
-{
-  var selectedObj = frmProducts.segProductList.selectedRowItems[0];
-  var productName = selectedObj.lblProductName;
-  var productDescription = selectedObj.lblProductDescription;
-//   alert(productDescription);
-  
-  frmProductDescription.lblProductName.text = productName;
-  frmProductDescription.lblProductDescription.text = productDescription;
-  
- 
-	frmProductDescription.flxProductGraph.add(kdv_createChartWidget());
-  
-  
-  frmProductDescription.show();
-}
-
-
-
-
-
-//creating chart widget...
 function kdv_createChartWidget() {
     var chartObj = kdv_createChartJSObject();
 
@@ -207,4 +182,4 @@ function kdv_createChartJSObject() {
         }
     };
     return chartInfo;
-};
+};//Type your code here

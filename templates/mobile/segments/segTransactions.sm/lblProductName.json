@@ -29,8 +29,8 @@
         "value": "53dp"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "26%"
     },
     "_wrapping_": 2,
     "android": {

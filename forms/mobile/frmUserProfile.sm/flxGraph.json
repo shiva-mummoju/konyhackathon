@@ -1,14 +1,13 @@
 {
     "DNDConfig": null,
-    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "205dp"
+        "value": "170dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -24,35 +23,29 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s777f81865bf43099a93274e0c813365",
+    "_skin_": "sd602a43d9a2472ababd9af5f90a65ae",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "212dp"
     },
     "_width_": {
         "type": "string",
-        "value": "57.33%"
+        "value": "99.95%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "lbluserName",
-        "lblbusinessValue",
-        "lblbvalue",
-        "lblIncome",
-        "Label0f1f8a00fd53a44"
-    ],
+    "children": [],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxUserDetails",
+    "id": "flxGraph",
     "info": null,
     "isvisible": true,
-    "kuid": "d1c636731a1841868d14e972ebce4c2b",
-    "layouttype": 4,
+    "kuid": "fee2845b3de3487d83d7b78a6faadc44",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flexImage",
+    "parent": "frmUserProfile",
     "pf": "frmUserProfile",
     "snapgridsize": 10,
     "snaptogrid": true,

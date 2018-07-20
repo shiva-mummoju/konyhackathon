@@ -28,7 +28,8 @@
     "canUpdateUI": true,
     "children": [
         "flexImage",
-        "segmentOtherDetails"
+        "segmentOtherDetails",
+        "flxGraph"
     ],
     "containerweight": 100,
     "currentLocale": "default",
