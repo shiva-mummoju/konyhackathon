@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "307dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa858f99501b4953953a81e58885cc01",
+    "_text_": "Instagram",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9d9129ea32e467a91a48c6ab981d424",
+    "id": "CopybtnTwitter0a95c08af574a4e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d0eb1a27f4e542509dd96281e4103ed3",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxPlatformPallete",
+    "pf": "frmProductHistory",
+    "wType": "Button",
+    "zindex": 1
+}
