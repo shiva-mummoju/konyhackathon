@@ -27,7 +27,7 @@
     "_skin_": "sb2c80ce4b18405aa571962187f7393c",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,7 @@
         "btnFacebook",
         "btnTwitter",
         "btnPinterest",
-        "CopybtnTwitter0a95c08af574a4e"
+        "btnInstagramInPallete"
     ],
     "clipbounds": true,
     "containerweight": 100,

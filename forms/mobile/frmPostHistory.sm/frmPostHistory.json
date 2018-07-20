@@ -28,7 +28,6 @@
     "canUpdateUI": true,
     "children": [
         "componentBottomBar",
-        "componentTopBar",
         "flxPosts"
     ],
     "containerweight": 100,
@@ -40,6 +39,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmPostHistory",
+    "ide_preShow": "AS_Form_hf9d3a0931cb423782f6bff01a8bc7bc",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

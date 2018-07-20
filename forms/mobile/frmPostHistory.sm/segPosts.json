@@ -75,8 +75,8 @@
         }
     ],
     "_height_": {
-        "type": "number",
-        "value": "447"
+        "type": "string",
+        "value": "90%"
     },
     "_indicator_": "none",
     "_left_": {
@@ -113,6 +113,7 @@
     "groupcells": false,
     "hasSections": false,
     "id": "segPosts",
+    "ide_onRowClick": "AS_Segment_afcf54d67c5d486a9d805ecd11312d25",
     "info": null,
     "ipad": {
         "psp": {

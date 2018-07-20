@@ -32,7 +32,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "250dp"
+        "value": "300dp"
     },
     "canUpdateUI": true,
     "centerx": {

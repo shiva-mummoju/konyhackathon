@@ -53,7 +53,7 @@
     "id": "imgTopBarRight",
     "imagescalemode": 1,
     "info": null,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "d771be3c619b4ca9aee5b9a94e434375",
     "name": "kony.ui.Image2",
     "parent": "componentTopBar",

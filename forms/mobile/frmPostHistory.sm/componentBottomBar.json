@@ -2,6 +2,10 @@
     "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
     "_children_": [],
     "_height_": "10%",
     "_left_": {
@@ -26,7 +30,7 @@
     "_skin_": "sf315405b5004a77bff02788ca62a1bf",
     "_top_": {
         "type": "string",
-        "value": "553dp"
+        "value": "90%"
     },
     "_width_": "100%",
     "areflexpropsreferenced": false,
@@ -43,13 +47,17 @@
                 "srcKUID": "ed8c9eb96d7349d68141edb0c49cff2a",
                 "wType": "FlexContainer"
             },
+            "bottom": {
+                "type": "number",
+                "value": "0"
+            },
             "left": {
                 "type": "string",
                 "value": "0dp"
             },
             "top": {
                 "type": "string",
-                "value": "553dp"
+                "value": "90%"
             },
             "zIndex": 100
         },

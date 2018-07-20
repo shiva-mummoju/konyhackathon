@@ -26,7 +26,7 @@
     "_skin_": "s777f81865bf43099a93274e0c813365",
     "_top_": {
         "type": "string",
-        "value": "8%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -37,6 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "flxPlatformPallete",
+        "flxHorizontalLine",
         "segPosts"
     ],
     "clipbounds": true,

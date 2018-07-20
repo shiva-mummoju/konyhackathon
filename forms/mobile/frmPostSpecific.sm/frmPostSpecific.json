@@ -27,7 +27,6 @@
     },
     "canUpdateUI": true,
     "children": [
-        "componentTopBar",
         "componentBottomBar",
         "flxPostSpecific"
     ],

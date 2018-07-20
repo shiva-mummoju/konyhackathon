@@ -1,0 +1,24 @@
+{
+    "AS_Form_hf9d3a0931cb423782f6bff01a8bc7bc": {
+        "id": "AS_Form_hf9d3a0931cb423782f6bff01a8bc7bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPostHistory",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i1a5b6986b9f4f7fa3010d60602fe1e8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ce796a8f835645f1a5e927898d0146b7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

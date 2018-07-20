@@ -7,10 +7,13 @@
         "value": "0%"
     },
     "_children_": [],
-    "_height_": "10%",
-    "_left_": {
+    "_height_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -27,10 +30,14 @@
     ],
     "_percent_": true,
     "_render_": true,
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
     "_skin_": "sf315405b5004a77bff02788ca62a1bf",
     "_top_": {
         "type": "string",
-        "value": ""
+        "value": "90%"
     },
     "_width_": "100%",
     "areflexpropsreferenced": false,
@@ -47,19 +54,28 @@
                 "srcKUID": "ed8c9eb96d7349d68141edb0c49cff2a",
                 "wType": "FlexContainer"
             },
+            "autogrowMode": 0,
             "bottom": {
                 "type": "string",
                 "value": "0%"
             },
-            "left": {
+            "height": {
                 "type": "string",
-                "value": "0dp"
+                "value": "10%"
+            },
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "right": {
+                "type": "number",
+                "value": "0"
             },
             "top": {
                 "type": "string",
-                "value": ""
+                "value": "90%"
             },
-            "zIndex": 1
+            "zIndex": 10
         },
         "flxSuperAdd": {
             "__events__": {
@@ -163,5 +179,5 @@
     "snaptogrid": true,
     "sourceUserWidget": "ed8c9eb96d7349d68141edb0c49cff2a",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 10
 }

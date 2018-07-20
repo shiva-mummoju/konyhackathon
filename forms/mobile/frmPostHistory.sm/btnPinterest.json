@@ -7,7 +7,10 @@
         "type": "string",
         "value": "30dp"
     },
-    "_left_": "210dp",
+    "_left_": {
+        "type": "string",
+        "value": "210dp"
+    },
     "_margin_": [
         6,
         6,
@@ -22,7 +25,10 @@
     ],
     "_skin_": "sa858f99501b4953953a81e58885cc01",
     "_text_": "Pinterest",
-    "_top_": "10dp",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
     "_width_": {
         "type": "string",
         "value": "87dp"
