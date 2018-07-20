@@ -122,7 +122,8 @@
                 "kuid": "f5738e985134461d89539cf7b6cf29ac",
                 "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
                 "wType": "Image"
-            }
+            },
+            "src": "baseline_assignment_ind_white_18dp.png"
         }
     },
     "id": "componentBottomBar",

@@ -43,6 +43,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flexHorizontal3",
+    "ide_onClick": "AS_FlexContainer_a175408baa5c4d1aa36b0f26b47a2f8a",
     "info": null,
     "isvisible": true,
     "kuid": "d09bb38e0cf54968b4a17aa976ba8f19",
