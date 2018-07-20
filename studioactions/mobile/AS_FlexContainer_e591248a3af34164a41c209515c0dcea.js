@@ -5,8 +5,8 @@ function AS_FlexContainer_e591248a3af34164a41c209515c0dcea(eventobject, x, y) {
             "stepConfig": {
                 "timingFunction": kony.anim.EASE
             },
-            "width": "36%",
-            "height": "31%"
+            "width": "38%",
+            "height": "33%"
         }
     }), {
         "delay": 0,

@@ -32,12 +32,12 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "90%"
+        "value": "89%"
     },
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "1%"
     },
     "_margin_": [
         0,
@@ -52,13 +52,17 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "1%"
+    },
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "1%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "98%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
@@ -97,7 +101,7 @@
     "rowTemplateId": "db2225d3b17a4c1db8ced2be4c299743",
     "rowcounter": 0,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
-    "rowskin": "s0eff9639ef04661b617b8ca8c84dc32",
+    "rowskin": "s469033fded9468aaf43726481eabcf6",
     "rowtemplate": "flxPostTemplate",
     "screenlevelwidget": false,
     "seccounter": 0,
@@ -107,7 +111,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "64646400",
     "separatorrequired": true,

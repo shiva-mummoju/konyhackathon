@@ -116,6 +116,38 @@
                 "srcKUID": "bd602b0d65164c72bbfd010aaa0c3363",
                 "wType": "FlexContainer"
             }
+        },
+        "imgAddPost": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hd4bc5aa47c0463bb7ff45e03cb1a47e",
+                "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
+                "wType": "Image"
+            }
+        },
+        "imgHistory": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e5609bf3721248e08b528377ea6ce51e",
+                "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
+                "wType": "Image"
+            }
+        },
+        "imgProducts": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b5def2858c194d47b0bd36aa124177a9",
+                "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
+                "wType": "Image"
+            }
+        },
+        "imgUser": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e8ab7fdb9b5f407e828a1ead7676edca",
+                "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
+                "wType": "Image"
+            }
         }
     },
     "id": "componentBottomBar",

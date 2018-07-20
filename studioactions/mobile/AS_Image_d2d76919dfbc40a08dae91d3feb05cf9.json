@@ -1,6 +1,6 @@
 {
-    "AS_FlexContainer_e591248a3af34164a41c209515c0dcea": {
-        "id": "AS_FlexContainer_e591248a3af34164a41c209515c0dcea",
+    "AS_Image_d2d76919dfbc40a08dae91d3feb05cf9": {
+        "id": "AS_Image_d2d76919dfbc40a08dae91d3feb05cf9",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -13,28 +13,28 @@
             "name": "y"
         }],
         "contextObj": {
-            "name": "frmCatogiries",
+            "name": "frmPostSpecific",
             "type": "forms",
             "platform": "",
-            "KUID": "ebf77876a4474f269457f1d3224f849a"
+            "KUID": "b1a3ec072bd74219beb32c1945991cd7"
         },
         "language": "js",
         "actions": [{
-            "id": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
+            "id": "SCALE_ACTION____gada1a9b0e454d4496f1bf6188f98236",
             "type": "SCALE_ACTION",
             "itemType": "FORM",
-            "itemId": "frmCatogiries",
-            "widgetId": "flexHorizontal2",
-            "itemKUID": "ebf77876a4474f269457f1d3224f849a",
-            "widgetKUID": "ec67f50e7a394b13b8f3a964f12e8d46",
-            "wType": "FlexContainer",
+            "itemId": "frmPostSpecific",
+            "widgetId": "imgPostSpecific",
+            "itemKUID": "b1a3ec072bd74219beb32c1945991cd7",
+            "widgetKUID": "f66b0904c9c84d02b85946815811f211",
+            "wType": "Image",
             "animationObject": {
                 "anchorPoint": {},
                 "stepConfig": {
                     "timingFunction": "kony.anim.EASE"
                 },
-                "width": "38%",
-                "height": "33%"
+                "width": "88%",
+                "height": "88%"
             },
             "config": {
                 "delay": "0",
@@ -44,12 +44,12 @@
                 "direction": "kony.anim.DIRECTION_ALTERNATE"
             },
             "start": "Immediately",
-            "animationId": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
-            "displayAnimationId": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
+            "animationId": "SCALE_ACTION____gada1a9b0e454d4496f1bf6188f98236",
+            "displayAnimationId": "SCALE_ACTION____gada1a9b0e454d4496f1bf6188f98236",
             "forkedPlatform": "all",
             "parentId": null,
             "callbackType": null,
-            "widgetPath": "frmCatogiries.flexHorizontal2"
+            "widgetPath": "frmPostSpecific.imgPostSpecific"
         }]
     }
 }

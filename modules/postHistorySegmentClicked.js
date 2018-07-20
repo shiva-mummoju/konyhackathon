@@ -6,7 +6,7 @@ function onPostRowClicked(eventObject,sectionNumber,rowNumber){
 
   
 	 var selectedObj = frmPostHistory.flxPosts.segPosts.selectedRowItems[0];
-  alert(JSON.stringify(selectedObj));
+//   alert(JSON.stringify(selectedObj));
   var postTitle = selectedObj.lblPostTitle;
   var postProduct = selectedObj.lblPostProducts;
   var postImg = selectedObj.imgPosts;

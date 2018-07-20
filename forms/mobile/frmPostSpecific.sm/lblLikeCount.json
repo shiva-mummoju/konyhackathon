@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "20%"
-    },
     "_margin_": [
         1,
         1,
@@ -24,10 +20,6 @@
     ],
     "_skin_": "s7d15d877d934ed0a993f4440ac979f4",
     "_text_": "100",
-    "_top_": {
-        "type": "string",
-        "value": "10dp"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
