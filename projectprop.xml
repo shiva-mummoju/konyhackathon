@@ -399,7 +399,7 @@
     <attributes name="enablesearchbar" value="false"/>
     <attributes name="tcandroid480basefontsize" value="12"/>
     <attributes name="WRITE_SETTINGS" value="false"/>
-    <attributes name="cloud_account_guid" value="dde09d15-b97d-4af6-b9ce-01133e3979f3"/>
+    <attributes name="cloud_account_guid" value=""/>
     <attributes name="statusBarHidden" value="false"/>
     <attributes name="andmaxsdkkey" value="None"/>
     <attributes name="wp10chat" value="false"/>
@@ -427,7 +427,7 @@
     <attributes name="wp8packagepublisheridkey" value=""/>
     <attributes name="location" value="false"/>
     <attributes name="winphn10bgagentclassname" value=""/>
-    <attributes name="cloud_url" value="https://training.konycloud.com"/>
+    <attributes name="cloud_url" value=""/>
     <attributes name="disablehttpskey" value="false"/>
     <attributes name="Music_Library" value="true"/>
     <attributes name="Location" value="true"/>
@@ -468,7 +468,7 @@
     <attributes name="androidInstallLocnPref" value="false"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
     <attributes name="userAccountInformation" value="false"/>
-    <attributes name="cloud_env_name" value="Training - Kony-TrngMobileFabric"/>
+    <attributes name="cloud_env_name" value=""/>
     <attributes name="tcbb480basefontsize" value="12"/>
     <attributes name="SET_PREFERRED_APPLICATIONS" value="false"/>
     <attributes name="WP8_ID_CAP_MICROPHONE" value="true"/>
@@ -536,7 +536,7 @@
     <attributes name="wp81spackagedisplaynamekey" value="konyhackathon"/>
     <attributes name="windowsmapkey" value=""/>
     <attributes name="bb10keystorepassword" value=""/>
-    <attributes name="cloud_account_id" value="100000507"/>
+    <attributes name="cloud_account_id" value=""/>
     <attributes name="Enterprise_Authentication" value="true"/>
     <attributes name="BATTERY_STATS" value="false"/>
     <attributes name="internetClient" value="false"/>
@@ -566,6 +566,6 @@
     <attributes name="build" value="debug"/>
     <attributes name="certs_key_store_type" value="JKS"/>
     <attributes name="spaandroidtab800basefontsize" value="12"/>
-    <attributes name="cloud_env_GUID" value="10e11b02-97a1-45e4-9eec-bfc5c0a2af9c"/>
+    <attributes name="cloud_env_GUID" value=""/>
     <attributes name="defaultlocalekey" value=""/>
 </properties>

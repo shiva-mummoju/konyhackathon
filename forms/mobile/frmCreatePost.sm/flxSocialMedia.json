@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "280dp"
+        "value": "320dp"
     },
     "_left_": {
         "type": "string",
@@ -37,15 +37,15 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "52%"
+        "value": "50.93%"
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "37.94%"
     },
     "children": [
-        "CheckBoxG",
-        "btnOk"
+        "btnOk",
+        "Image0e31be980bee843"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "30.00%"
     },
     "_left_": {
         "type": "string",
@@ -42,7 +42,6 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flexHorizontal2",
-    "ide_onTouchStart": "AS_FlexContainer_e591248a3af34164a41c209515c0dcea",
     "info": null,
     "isvisible": true,
     "kuid": "ec67f50e7a394b13b8f3a964f12e8d46",

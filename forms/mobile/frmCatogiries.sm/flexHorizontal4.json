@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "30.08%"
     },
     "_left_": {
         "type": "string",
@@ -43,7 +43,6 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flexHorizontal4",
-    "ide_onTouchStart": "AS_FlexContainer_i086a50df2ed45278287baaa69025729",
     "info": null,
     "isvisible": true,
     "kuid": "c8500ff3ef864104959097f768c057b8",

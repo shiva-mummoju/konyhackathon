@@ -4,7 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "8%"
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "47dp"
     },
     "_margin_": [
         0,
