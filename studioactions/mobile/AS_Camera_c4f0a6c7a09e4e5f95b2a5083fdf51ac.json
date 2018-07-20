@@ -1,0 +1,23 @@
+{
+    "AS_Camera_c4f0a6c7a09e4e5f95b2a5083fdf51ac": {
+        "id": "AS_Camera_c4f0a6c7a09e4e5f95b2a5083fdf51ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onCapture_dd50bfcf7c9e48ee858ee696d2192ba6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cameraData",
+            "display": "cameraData",
+            "inputparams": [{
+                "name": "cam",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

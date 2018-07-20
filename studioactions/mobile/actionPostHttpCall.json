@@ -1,0 +1,28 @@
+{
+    "AS_Button_d8157c6d4fd6498db482bb702166e627": {
+        "id": "AS_Button_d8157c6d4fd6498db482bb702166e627",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionPostHttpCall",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreatePost",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ca20f275dfea49c69cf283d022c87a06"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d1d3fb869cb84220bbb3cfa22a3a28ee",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "postToFacebook",
+            "display": "postToFacebook",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

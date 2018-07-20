@@ -1,0 +1,43 @@
+{
+    "AS_FlexContainer_b2127423d04c4060900dfed1d7226078": {
+        "id": "AS_FlexContainer_b2127423d04c4060900dfed1d7226078",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____d36bb9ccbc954f8c9e5865ca903866e8",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmCreatePost",
+            "widgetId": "flxinvisible",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "h624f12adb3d49eda76ffbceed47e254",
+            "widgetKUID": "f1c238a9b35342c9aab5882bc59813f5",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "frmCreatePost.flxinvisible"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___fea11b4267454dee88cbacc4bf920ee7",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmCreatePost",
+            "widgetId": "flxCreatePost",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "h624f12adb3d49eda76ffbceed47e254",
+            "widgetKUID": "bd6744a0925c4c8fbf1e3a1c88735fc1",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmCreatePost.flxCreatePost"
+        }]
+    }
+}

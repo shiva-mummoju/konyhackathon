@@ -1,0 +1,20 @@
+{
+    "AS_Button_b86bb1ea307249649ffb935b03c2542e": {
+        "id": "AS_Button_b86bb1ea307249649ffb935b03c2542e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cd5eaceaa50e4033aa4c247dadbfcd5e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openMediaGallery",
+            "display": "openMediaGallery",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
