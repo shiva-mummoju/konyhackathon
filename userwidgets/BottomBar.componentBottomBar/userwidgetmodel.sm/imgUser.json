@@ -10,7 +10,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "6.00%"
+        "value": "5.00%"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
         0
     ],
     "_skin_": "s65c2eee1256460da7e57f33d90bd9ff",
-    "_src_": "baseline_shopping_cart_black_18dp.png",
+    "_src_": "baseline_assignment_ind_black_18dp.png",
     "_top_": {
         "type": "string",
         "value": "561dp"
@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "49.75%"
+        "value": "50.25%"
     },
     "containerweight": 100,
     "context": {
@@ -46,11 +46,11 @@
         "templateType": "userwidgets",
         "topLevelBox": null
     },
-    "id": "Image0b59bf4e7df9145",
+    "id": "imgUser",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "ja97ee1c97f04d7eaee04114c99798e4",
+    "kuid": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
     "name": "kony.ui.Image2",
     "parent": "componentBottomBar",
     "pf": "userwidgetmodel",

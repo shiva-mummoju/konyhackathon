@@ -21,15 +21,15 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "flxBottomBar"
+        "flxProductBox"
     ],
     "containerId": true,
     "containerweight": 100,
     "currentLocale": "default",
-    "device": "iPhone6",
+    "device": "GalaxyS5",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "id": "segBottomBar",
+    "id": "segProductBox",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -37,18 +37,18 @@
         "formTransition": "None"
     },
     "isvisible": true,
-    "kuid": "f54b722b84da432391901b18e03566d2",
+    "kuid": "c966bc6cb625483b9e2774cc6964a2ed",
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "outtransitionconfig": {
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "android",
     "prevDevice": "iPhone6",
     "prevPlatform": "iphone",
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhone6",
+    "shellCSS": "and_GalaxyS5",
     "titleBarSkin": "s75b57c166b3414e8ba094722616a477",
     "titlebar": true,
     "type": 3,

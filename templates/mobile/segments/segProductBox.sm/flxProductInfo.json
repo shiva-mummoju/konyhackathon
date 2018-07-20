@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "10%"
+        "value": "123dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "25dp"
     },
     "_margin_": [
         0,
@@ -23,41 +23,41 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sf315405b5004a77bff02788ca62a1bf",
+    "_skin_": "s777f81865bf43099a93274e0c813365",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "17dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "49.97%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "47.85%"
+    },
     "children": [
-        "imgProducts",
-        "imgCoupons",
-        "imgAddPost",
-        "imgHistory",
-        "imgUser"
+        "lblProductName",
+        "lblPrice"
     ],
     "clipbounds": true,
+    "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "componentBottomBar",
+    "id": "flxProductInfo",
     "info": null,
     "isvisible": true,
-    "kuid": "ed8c9eb96d7349d68141edb0c49cff2a",
-    "layouttype": 3,
+    "kuid": "j979ab2ff2e4447a8dcc9880ddeca5b3",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "userwidgetmodel",
-    "pf": "userwidgetmodel",
+    "parent": "flxProductBox",
+    "pf": "segProductBox",
     "snapgridsize": 10,
     "snaptogrid": true,
-    "vizProps": {
-        "hidewidgethierarchy": false
-    },
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

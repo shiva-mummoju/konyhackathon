@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "35dp"
+        "value": "125dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "30dp"
     },
     "_margin_": [
         0,
@@ -27,29 +27,33 @@
     "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
-        "value": "15dp"
+        "value": "35dp"
     },
     "_width_": {
         "type": "string",
-        "value": "50dp"
+        "value": "110dp"
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerId": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "segBottomBar",
+        "platform": "android",
         "templateType": "segments",
         "topLevelBox": null
     },
-    "id": "CopyImage0g53adef5043842",
+    "id": "imgProduct",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "ca6d589fba1c4daa99226a3daa1abf1a",
+    "kuid": "i8c1d7d8611e42aba8775e1fb990d72d",
     "name": "kony.ui.Image2",
-    "parent": "flxBottomBar",
-    "pf": "segBottomBar",
+    "parent": "flxProductBox",
+    "pf": "segProductBox",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,

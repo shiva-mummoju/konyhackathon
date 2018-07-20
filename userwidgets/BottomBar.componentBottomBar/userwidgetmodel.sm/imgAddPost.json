@@ -1,11 +1,12 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
+    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "35dp"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
@@ -24,32 +25,35 @@
         0
     ],
     "_skin_": "s65c2eee1256460da7e57f33d90bd9ff",
-    "_src_": "imagedrag.png",
+    "_src_": "baseline_add_circle_outline_black_18dp.png",
     "_top_": {
         "type": "string",
-        "value": "15dp"
+        "value": "561dp"
     },
     "_width_": {
         "type": "string",
         "value": "50dp"
     },
     "canUpdateUI": true,
-    "containerId": true,
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "segBottomBar",
-        "templateType": "segments",
+        "formID": "uwu504af98f0084d91889c478b1916573f",
+        "templateType": "userwidgets",
         "topLevelBox": null
     },
-    "id": "CopyImage0f076459fd34644",
+    "id": "imgAddPost",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "b797396ff251438d9c3f7f6f99533e0a",
+    "kuid": "d69c23dd4ecd451e80e5faf999772af8",
     "name": "kony.ui.Image2",
-    "parent": "flxBottomBar",
-    "pf": "segBottomBar",
+    "parent": "componentBottomBar",
+    "pf": "userwidgetmodel",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,

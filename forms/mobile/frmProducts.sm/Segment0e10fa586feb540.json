@@ -9,12 +9,12 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "550dp"
+        "value": "553dp"
     },
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "1dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -72,12 +72,14 @@
     "parent": "frmProducts",
     "pf": "frmProducts",
     "retainselection": false,
+    "rowTemplateId": null,
     "rowcounter": 2,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
     "rowskin": "s0eff9639ef04661b617b8ca8c84dc32",
     "rowtemplate": null,
     "screenlevelwidget": false,
     "seccounter": 0,
+    "sectionHeaderTemplateId": null,
     "sectionheaderskin": "s55719aaff37411aa6936d3c474d9703",
     "selectedRows": null,
     "selectedState": false,
