@@ -29,8 +29,8 @@
     "_render_": true,
     "_skin_": "sf315405b5004a77bff02788ca62a1bf",
     "_top_": {
-        "type": "number",
-        "value": "582"
+        "type": "string",
+        "value": ""
     },
     "_width_": "100%",
     "areflexpropsreferenced": false,
@@ -56,8 +56,8 @@
                 "value": "0dp"
             },
             "top": {
-                "type": "number",
-                "value": "582"
+                "type": "string",
+                "value": ""
             },
             "zIndex": 1
         },

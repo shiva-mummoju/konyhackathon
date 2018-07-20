@@ -45,7 +45,7 @@
         "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "id": "lblPostInfo",
     "info": null,
     "ipad": {
