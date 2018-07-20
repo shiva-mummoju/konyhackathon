@@ -45,7 +45,7 @@
     "name": "kony.ui.Button",
     "paddinginpixel": false,
     "parent": "flxPlatformPallete",
-    "pf": "frmProductHistory",
+    "pf": "frmPostHistory",
     "wType": "Button",
     "zindex": 1
 }

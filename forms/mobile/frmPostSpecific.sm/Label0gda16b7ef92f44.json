@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "293dp"
+        "value": "115dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s5f8fe2f81ef4ff4bf6a045bdfd06769",
-    "_text_": "Label",
+    "_skin_": "scdac13d94db404189d1c2823bfe2595",
+    "_text_": "Delete",
     "_top_": {
         "type": "string",
-        "value": "34dp"
+        "value": "7dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,10 +40,17 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "PostShareCount",
+    "id": "Label0gda16b7ef92f44",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +63,10 @@
         }
     },
     "isvisible": true,
-    "kuid": "h89579ded042465c9c6c77562556d2dc",
+    "kuid": "ed6f80e065a143c9825a56daff475b68",
     "name": "kony.ui.Label",
-    "parent": "flxPostTemplate",
-    "pf": "segPostsBox",
+    "parent": "btnDelete",
+    "pf": "frmPostSpecific",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

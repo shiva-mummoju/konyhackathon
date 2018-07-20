@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "293dp"
+        "value": "23dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s5f8fe2f81ef4ff4bf6a045bdfd06769",
-    "_text_": "Label",
+    "_skin_": "s54742f222d7466c9fbeac138f9f36fb",
+    "_text_": "This is the product  description which is a very nice description.",
     "_top_": {
         "type": "string",
-        "value": "34dp"
+        "value": "75dp"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "90%"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,10 +40,13 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "PostShareCount",
+    "id": "lblPostInfo",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +59,18 @@
         }
     },
     "isvisible": true,
-    "kuid": "h89579ded042465c9c6c77562556d2dc",
+    "kuid": "ea424d18834c4eef84da5b8fe5a52003",
+    "maxheight": {
+        "type": "string",
+        "value": "90%"
+    },
+    "maxwidth": {
+        "type": "string",
+        "value": "90%"
+    },
     "name": "kony.ui.Label",
-    "parent": "flxPostTemplate",
-    "pf": "segPostsBox",
+    "parent": "flxpostInfo",
+    "pf": "frmPostSpecific",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

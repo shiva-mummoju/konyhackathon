@@ -7,7 +7,10 @@
         "type": "string",
         "value": "30dp"
     },
-    "_left_": "210dp",
+    "_left_": {
+        "type": "string",
+        "value": "110dp"
+    },
     "_margin_": [
         6,
         6,
@@ -21,8 +24,11 @@
         0
     ],
     "_skin_": "sa858f99501b4953953a81e58885cc01",
-    "_text_": "Pinterest",
-    "_top_": "10dp",
+    "_text_": "Twitter",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
     "_width_": {
         "type": "string",
         "value": "87dp"
@@ -32,14 +38,14 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s9d9129ea32e467a91a48c6ab981d424",
-    "id": "btnPinterest",
+    "id": "btnTwitter",
     "info": null,
     "isvisible": true,
-    "kuid": "h2b3a1dc80e9409bb5f88de647522772",
+    "kuid": "e56e3e9f46da4e508b7035b94a800dbc",
     "name": "kony.ui.Button",
     "paddinginpixel": false,
     "parent": "flxPlatformPallete",
-    "pf": "frmProductHistory",
+    "pf": "frmPostHistory",
     "wType": "Button",
     "zindex": 1
 }

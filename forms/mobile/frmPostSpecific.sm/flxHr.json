@@ -1,8 +1,13 @@
 {
     "DNDConfig": null,
+    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "75dp"
+        "value": "1dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
     },
     "_margin_": [
         0,
@@ -18,32 +23,33 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s7028f18774b43fdb72028c8bab110c1",
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_skin_": "s6543b4d38b645dfaaeefb27901bd87e",
+    "_top_": {
+        "type": "string",
+        "value": "30%"
+    },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "imgPosts",
-        "lblPostTitle",
-        "lblPostProducts",
-        "PostShareCount",
-        "lblShare"
-    ],
+    "children": [],
     "clipbounds": true,
-    "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxPostTemplate",
+    "id": "flxHr",
     "info": null,
-    "isTemplate": true,
     "isvisible": true,
-    "kuid": "d8ea76612ddb4ab89dc49a3c0012f1cf",
+    "kuid": "c0769e29fef943ab8b19db8bbd606a5d",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "segPostsBox",
-    "pf": "segPostsBox",
+    "parent": "flxpostInfo",
+    "pf": "frmPostSpecific",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

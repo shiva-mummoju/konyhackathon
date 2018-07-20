@@ -58,7 +58,7 @@
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": false,
     "parent": "flxPosts",
-    "pf": "frmProductHistory",
+    "pf": "frmPostHistory",
     "scrolldirection": 1,
     "snapgridsize": 10,
     "snaptogrid": true,
