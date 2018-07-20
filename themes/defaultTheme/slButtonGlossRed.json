@@ -150,7 +150,11 @@
     "bg_type": "ms_gradient",
     "isForked": true
   },
+<<<<<<< HEAD
   "kuid": "s739214aa37a438ba0a67660c350d220",
+=======
+  "kuid": "s9d9129ea32e467a91a48c6ab981d424",
+>>>>>>> ae7a1528563ac300e2f5f1eea47b9cb6ab4731f1
   "spaan": {
     "background_color": {
       "angle": 0,

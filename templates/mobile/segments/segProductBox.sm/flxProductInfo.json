@@ -41,7 +41,7 @@
     },
     "children": [
         "lblProductName",
-        "lblPrice"
+        "lblProductDescription"
     ],
     "clipbounds": true,
     "containerId": true,

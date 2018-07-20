@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "20dp"
+        "value": "275dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,12 @@
         0,
         0
     ],
-    "_skin_": "s5f8fe2f81ef4ff4bf6a045bdfd06769",
-    "_text_": "Label",
+    "_render_": true,
+    "_skin_": "s5b2779eafca477c955ff512c4dc97e7",
+    "_text_": "Shares",
     "_top_": {
         "type": "string",
-        "value": "17dp"
+        "value": "6dp"
     },
     "_width_": {
         "type": "ref",
@@ -34,6 +35,7 @@
     },
     "_wrapping_": 2,
     "android": {
+        "render": true,
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
@@ -43,7 +45,7 @@
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblPrice",
+    "id": "lblShare",
     "info": null,
     "ipad": {
         "psp": {
@@ -53,14 +55,30 @@
     "iphone": {
         "psp": {
             "wrapping": 2
-        }
+        },
+        "render": true
     },
     "isvisible": true,
-    "kuid": "a854dbbc00114f13983cd3f6531ea416",
+    "kuid": "bb1d94c5d23840178447931f831a3973",
     "name": "kony.ui.Label",
-    "parent": "flxProductInfo",
-    "pf": "segProductBox",
+    "parent": "flxPostTemplate",
+    "pf": "segPostsBox",
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
     "tooltip": "",
     "wType": "Label",
+    "winphone8": {
+        "render": true
+    },
     "zindex": 1
 }

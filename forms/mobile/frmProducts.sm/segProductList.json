@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "home1.jpg"
+            },
+            "lblProductDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Softens fabric during wash"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fabric Softner"
+            }
+        },
+        {
+            "imgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "home2.jpg"
+            },
+            "lblProductDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cleans Cloths"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Detergent"
+            }
+        },
+        {
+            "imgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "home3.jpg"
+            },
+            "lblProductDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Shampoo"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "491dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        13,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segProductList",
+    "ide_onRowClick": "AS_Segment_j8c7bd35a68446a4a577ea4c4f6b87fd",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "editStyle": "none",
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "d624cc8b6cc841698687e5f261d8826a",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmProducts",
+    "pf": "frmProducts",
+    "retainselection": false,
+    "rowTemplateId": "c966bc6cb625483b9e2774cc6964a2ed",
+    "rowcounter": 2,
+    "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
+    "rowskin": "sae062d29cf84424a40618a8fa97b730",
+    "rowtemplate": "flxProductBox",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s55719aaff37411aa6936d3c474d9703",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "singleselect",
+    "selectionbehaviorconfig": {},
+    "separatorcolor": "b8b6b803",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxProductBox": "flxProductBox",
+        "flxProductInfo": "flxProductInfo",
+        "imgProduct": "imgProduct",
+        "lblProductDescription": "lblProductDescription",
+        "lblProductName": "lblProductName"
+    },
+    "zindex": 1
+}
