@@ -6,11 +6,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "71.55%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "7%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -28,11 +28,11 @@
     "_src_": "lipstick.png",
     "_top_": {
         "type": "string",
-        "value": "20%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "130dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {

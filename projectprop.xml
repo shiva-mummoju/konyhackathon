@@ -35,9 +35,9 @@
     <attributes name="lastmodifiedtime" value="0"/>
     <attributes name="Server side mobile web" value="false"/>
     <attributes name="androidenablejsbindings" value="false"/>
-    <attributes name="cloud_url" value="https://training.konycloud.com"/>
-    <attributes name="cloud_env_name" value="Training - Kony-TrngMobileFabric"/>
-    <attributes name="cloud_env_GUID" value="10e11b02-97a1-45e4-9eec-bfc5c0a2af9c"/>
-    <attributes name="cloud_account_id" value="100000507"/>
-    <attributes name="cloud_account_guid" value="dde09d15-b97d-4af6-b9ce-01133e3979f3"/>
+    <attributes name="cloud_url" value=""/>
+    <attributes name="cloud_env_name" value=""/>
+    <attributes name="cloud_env_GUID" value=""/>
+    <attributes name="cloud_account_id" value=""/>
+    <attributes name="cloud_account_guid" value=""/>
 </properties>
