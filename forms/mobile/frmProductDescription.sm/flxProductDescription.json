@@ -3,12 +3,9 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "613dp"
+        "value": "80%"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
+    "_left_": "0dp",
     "_margin_": [
         0,
         0,
@@ -23,26 +20,21 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s777f81865bf43099a93274e0c813365",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
-    },
+    "_skin_": "s58016dd6f594109b2b5bacc24e8ef90",
+    "_top_": "10.00%",
+    "_width_": "100%",
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "componentBottomBar",
-        "componentTopBar"
+        "lblProductName",
+        "lblProductDescription",
+        "flxProductGraph",
+        "Label0d656be25c1d64d"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainer0c46d8617baf84e",
+    "id": "flxProductDescription",
     "info": null,
     "isvisible": true,
     "kuid": "c012eb18ac3846eba937dabb2ab47a88",

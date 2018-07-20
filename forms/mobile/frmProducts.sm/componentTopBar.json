@@ -3,7 +3,10 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_children_": [],
-    "_height_": "8%",
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
     "_left_": {
         "type": "string",
         "value": "0dp"
@@ -43,6 +46,11 @@
                 "kuid": "j345dbfff5b4401c86b055ab711429c2",
                 "srcKUID": "d8624ff5fef24ca78649753806dd6d0b",
                 "wType": "FlexContainer"
+            },
+            "autogrowMode": 0,
+            "height": {
+                "type": "string",
+                "value": "10%"
             },
             "left": {
                 "type": "string",

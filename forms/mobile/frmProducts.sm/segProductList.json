@@ -48,7 +48,7 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "504dp"
+        "value": "491dp"
     },
     "_indicator_": "none",
     "_left_": {
@@ -64,13 +64,13 @@
     "_orientation_": 2,
     "_padding_": [
         0,
-        0,
+        13,
         0,
         0
     ],
     "_top_": {
         "type": "string",
-        "value": "49dp"
+        "value": "62dp"
     },
     "_width_": {
         "type": "string",
@@ -86,6 +86,7 @@
     "groupcells": false,
     "hasSections": false,
     "id": "segProductList",
+    "ide_onRowClick": "AS_Segment_j8c7bd35a68446a4a577ea4c4f6b87fd",
     "info": null,
     "ipad": {
         "psp": {
@@ -103,6 +104,7 @@
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
+    "paddinginpixel": false,
     "pageoffdotimage": "pageoffdot.png",
     "pageondotimage": "pageondot.png",
     "paginationconfig": {
@@ -114,7 +116,7 @@
     "rowTemplateId": "c966bc6cb625483b9e2774cc6964a2ed",
     "rowcounter": 2,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
-    "rowskin": "s0eff9639ef04661b617b8ca8c84dc32",
+    "rowskin": "sae062d29cf84424a40618a8fa97b730",
     "rowtemplate": "flxProductBox",
     "screenlevelwidget": false,
     "seccounter": 0,

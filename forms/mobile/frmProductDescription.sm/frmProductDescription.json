@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2c2cc4f19c44969b932f6e52a57be93",
+    "_skin_": "s257028973014f378905347fffae51d4",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -26,7 +26,9 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0c46d8617baf84e"
+        "flxProductDescription",
+        "componentBottomBar",
+        "componentTopBar"
     ],
     "containerweight": 100,
     "currentLocale": "default",
