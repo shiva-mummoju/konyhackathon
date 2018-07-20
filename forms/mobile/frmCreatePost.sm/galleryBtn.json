@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa9934ddbe6641908966d102a1ec4933",
+    "_text_": "Gallery",
+    "_top_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "65%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s739214aa37a438ba0a67660c350d220",
+    "id": "galleryBtn",
+    "ide_onClick": "AS_Button_f0cc09e6d85b47a1aea3c8ba97e7bcf6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ed9eb7cd403646e299801cd98b7abcf2",
+    "name": "kony.ui.Button",
+    "parent": "flxinvisible",
+    "pf": "frmCreatePost",
+    "wType": "Button",
+    "zindex": 1
+}
