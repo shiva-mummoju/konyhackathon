@@ -1,0 +1,156 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgConsumer": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblConsumerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Consumer Name"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "product "
+            }
+        },
+        {
+            "imgConsumer": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblConsumerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Consumer Name"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "product "
+            }
+        },
+        {
+            "imgConsumer": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblConsumerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Consumer Name"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "price"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "product "
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "405dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentOtherDetails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "c88f3dc9947b42f3874e38dbcf32e3a5",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmUserProfile",
+    "pf": "frmUserProfile",
+    "retainselection": false,
+    "rowTemplateId": "a2c244ef4f8a45859bcf42bbb5a6e0af",
+    "rowcounter": 2,
+    "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
+    "rowskin": "s80a2c1572c447898f97c1113c85f148",
+    "rowtemplate": "flxTrasactions",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s55719aaff37411aa6936d3c474d9703",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0f6b812f1acfa41": "FlexContainer0f6b812f1acfa41",
+        "flxTrasactions": "flxTrasactions",
+        "imgConsumer": "imgConsumer",
+        "lblConsumerName": "lblConsumerName",
+        "lblPrice": "lblPrice",
+        "lblProductName": "lblProductName"
+    },
+    "zindex": 1
+}
