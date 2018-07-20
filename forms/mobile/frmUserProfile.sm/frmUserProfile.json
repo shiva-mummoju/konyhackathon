@@ -28,9 +28,9 @@
     "canUpdateUI": true,
     "children": [
         "flexImage",
-        "segmentOtherDetails",
         "flxGraph",
-        "componentBottomBar"
+        "componentBottomBar",
+        "flxSegmentScrollView"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -41,6 +41,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmUserProfile",
+    "ide_init": "AS_Form_a0c93da9331d4c1d9fd6ca4669b75889",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

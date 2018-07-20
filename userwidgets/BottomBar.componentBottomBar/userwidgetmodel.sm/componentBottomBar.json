@@ -37,7 +37,6 @@
     "canUpdateUI": true,
     "children": [
         "flxSuperShopping",
-        "flxSuperCoupons",
         "flxSuperAdd",
         "flxSuperUser",
         "flxSuperHistory"

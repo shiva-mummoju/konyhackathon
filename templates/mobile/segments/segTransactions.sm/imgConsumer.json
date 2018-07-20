@@ -25,7 +25,7 @@
         0
     ],
     "_skin_": "s65c2eee1256460da7e57f33d90bd9ff",
-    "_src_": "imagedrag.png",
+    "_src_": "tra.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -46,6 +46,7 @@
     "id": "imgConsumer",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "isvisible": true,
     "kuid": "c7a44f51d6f74b7bb3b09750c44ff5f8",
     "name": "kony.ui.Image2",

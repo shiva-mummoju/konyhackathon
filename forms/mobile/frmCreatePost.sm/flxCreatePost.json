@@ -6,7 +6,10 @@
         "type": "string",
         "value": "100%"
     },
-    "_left_": "0dp",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_margin_": [
         0,
         0,
@@ -22,7 +25,10 @@
     ],
     "_percent_": true,
     "_skin_": "s706b481ea384b3bbc3b4a801628cb8d",
-    "_top_": "0dp",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -32,10 +38,10 @@
     "canUpdateUI": true,
     "children": [
         "flextest",
-        "txtfield",
-        "btnPost",
         "txtAreaDescription",
-        "txtPostTitle"
+        "txtPostTitle",
+        "txtfield",
+        "btnPost"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -44,7 +50,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "bd6744a0925c4c8fbf1e3a1c88735fc1",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "frmCreatePost",
     "pf": "frmCreatePost",

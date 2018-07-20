@@ -1,0 +1,24 @@
+{
+    "AS_Form_a0c93da9331d4c1d9fd6ca4669b75889": {
+        "id": "AS_Form_a0c93da9331d4c1d9fd6ca4669b75889",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserProfile",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f5c69d642a994b2a90a66f528451b596"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bc3fc75f3c854789a9b6cfae9ba5fa3f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmUserProfile.flxGraph.add(kdv_createChartWidget());",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

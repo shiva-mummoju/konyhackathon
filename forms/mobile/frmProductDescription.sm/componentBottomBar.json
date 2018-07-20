@@ -78,14 +78,6 @@
                 "wType": "FlexContainer"
             }
         },
-        "flxSuperCoupons": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "g01cf75ffae54782bfef3b40a938f365",
-                "srcKUID": "afaa2ea5e80b4eb58ad1c77dd2cab8b2",
-                "wType": "FlexContainer"
-            }
-        },
         "flxSuperHistory": {
             "__events__": {},
             "__info__": {

@@ -27,11 +27,11 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "61.54%"
+        "value": "3%"
     },
     "_width_": {
         "type": "string",
-        "value": "280dp"
+        "value": "80%"
     },
     "autocapitalize": "none",
     "autocomplete": false,

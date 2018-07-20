@@ -71,14 +71,6 @@
                 "wType": "FlexContainer"
             }
         },
-        "flxSuperCoupons": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "b4e24565e2e14cff930406c0e809ca76",
-                "srcKUID": "afaa2ea5e80b4eb58ad1c77dd2cab8b2",
-                "wType": "FlexContainer"
-            }
-        },
         "flxSuperHistory": {
             "__events__": {
                 "ide_onClick": "AS_FlexContainer_i40111036398447296d24132097bca09"
@@ -112,23 +104,15 @@
         "imgAddPost": {
             "__events__": {},
             "__info__": {
-                "kuid": "dbc4cecee597489a984ec6d48052f369",
+                "kuid": "d257a42393b144ea95e4ad0bb58ba19a",
                 "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
-                "wType": "Image"
-            }
-        },
-        "imgCoupons": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "c3d56d43c639465cbc9bf1a5d9a89b8d",
-                "srcKUID": "g8dab9714f4746ca972c78fce0928232",
                 "wType": "Image"
             }
         },
         "imgHistory": {
             "__events__": {},
             "__info__": {
-                "kuid": "g884385c76e542e9afe7f4fe7d662e73",
+                "kuid": "ba22637d7a9c4956b5026200c8110f41",
                 "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
                 "wType": "Image"
             }
@@ -136,7 +120,7 @@
         "imgProducts": {
             "__events__": {},
             "__info__": {
-                "kuid": "faf8e0f3183349398eadb733fbf3e7e9",
+                "kuid": "a0c7d6206ead4f659fd6016fd714e933",
                 "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
                 "wType": "Image"
             }
@@ -144,7 +128,7 @@
         "imgUser": {
             "__events__": {},
             "__info__": {
-                "kuid": "ab4a8b7f084d43d3a29a80a5d0e8d9ba",
+                "kuid": "abb1be1ce1934c2ca4e81fc0aca862be",
                 "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
                 "wType": "Image"
             }
