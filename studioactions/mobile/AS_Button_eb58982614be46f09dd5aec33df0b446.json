@@ -16,7 +16,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__c959ee47f053416eae3ece8ccd49e05e",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "\n\n\n\n \n// data = JSON.parse(kony.store.getItem(\"postData1\"));\n\nif(!data){\n  data = [];\n}\n\nvar onePost = {\n  \"imgPosts\" : {\"rawBytes\": currentImage},\n  \"lblPostTitle\"  : frmCreatePost.txtPostTitle.text,\n  \"lblPostProducts\" : frmCreatePost.txtfield.text,\n  \"lblShareCount\" : String(Math.floor(Math.random()*100)),\n  \"txtAreaDescription\" : String(frmCreatePost.txtAreaDescription.text),\n  \"lblLikeCount\" : String(Math.floor(Math.random()*100)),\n  \"lblViewCount\" :  String(Math.floor(Math.random()*100)),\n  \"lblShare\" : \"Shares\"\n  \n};\n\ndata.push(onePost);\nfrmPostHistory.show();\n//kony.store.setItem(\"postData1\" , JSON.stringify(data));\n\n\n// alert(JSON.parse(kony.store.getItem(\"postData1\")));",
+            "codeSnippet": "\n\n\n\n \n// data = JSON.parse(kony.store.getItem(\"postData1\"));\n\nif(!data){\n  data = [];\n}\n\nvar onePost = {\n  \"imgPosts\" : {\"rawBytes\": currentImage},\n  \"lblPostTitle\"  : frmCreatePost.txtPostTitle.text,\n  \"lblPostProducts\" : frmCreatePost.txtfield.text,\n  \"lblShareCount\" : String(Math.floor(Math.random()*100)),\n  \"txtAreaDescription\" : String(frmCreatePost.txtAreaDescription.text),\n  \"lblLikeCount\" : String(Math.floor(Math.random()*100)),\n  \"lblViewCount\" :  String(Math.floor(Math.random()*100)),\n  \"lblShare\" : \"Shares\"\n  \n};\n\ndata.push(onePost);\n\n//kony.store.setItem(\"postData1\" , JSON.stringify(data));\n\n\n// alert(JSON.parse(kony.store.getItem(\"postData1\")));",
             "parentId": null,
             "callbackType": null
         }]

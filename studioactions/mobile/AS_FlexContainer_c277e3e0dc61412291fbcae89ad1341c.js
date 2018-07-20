@@ -1,16 +1,16 @@
-function AS_FlexContainer_e591248a3af34164a41c209515c0dcea(eventobject, x, y) {
-    function SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9_Callback() {
+function AS_FlexContainer_c277e3e0dc61412291fbcae89ad1341c(eventobject, x, y) {
+    function SCALE_ACTION____h787d1b9187b4fc8821d5e4fa3469d35_Callback() {
         // alert("function invoked")
         var dummy = [];
         productData.forEach((element) => {
-            if (element.Category == "sports") {
+            if (element.Category == "home") {
                 dummy.push(element);
             }
         })
         frmProducts.segProductList.setData(dummy);
         frmProducts.show();
     }
-    frmCatogiries.flexHorizontal2.animate(kony.ui.createAnimation({
+    frmCatogiries.flexHorixontal1.animate(kony.ui.createAnimation({
         "100": {
             "stepConfig": {
                 "timingFunction": kony.anim.EASE
@@ -25,6 +25,6 @@ function AS_FlexContainer_e591248a3af34164a41c209515c0dcea(eventobject, x, y) {
         "duration": 0.25,
         "direction": kony.anim.DIRECTION_ALTERNATE
     }, {
-        "animationEnd": SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9_Callback
+        "animationEnd": SCALE_ACTION____h787d1b9187b4fc8821d5e4fa3469d35_Callback
     });
 }

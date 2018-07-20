@@ -1,6 +1,6 @@
 {
-    "AS_FlexContainer_e591248a3af34164a41c209515c0dcea": {
-        "id": "AS_FlexContainer_e591248a3af34164a41c209515c0dcea",
+    "AS_FlexContainer_f7e453d006be43708f75f8bdcd9dc2a6": {
+        "id": "AS_FlexContainer_f7e453d006be43708f75f8bdcd9dc2a6",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -20,13 +20,13 @@
         },
         "language": "js",
         "actions": [{
-            "id": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
+            "id": "SCALE_ACTION____g5a1c585ceab4736ae40dd0f4e73f991",
             "type": "SCALE_ACTION",
             "itemType": "FORM",
             "itemId": "frmCatogiries",
-            "widgetId": "flexHorizontal2",
+            "widgetId": "flexHorizontal3",
             "itemKUID": "ebf77876a4474f269457f1d3224f849a",
-            "widgetKUID": "ec67f50e7a394b13b8f3a964f12e8d46",
+            "widgetKUID": "d09bb38e0cf54968b4a17aa976ba8f19",
             "wType": "FlexContainer",
             "animationObject": {
                 "anchorPoint": {},
@@ -44,17 +44,17 @@
                 "direction": "kony.anim.DIRECTION_ALTERNATE"
             },
             "start": "Immediately",
-            "animationId": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
-            "displayAnimationId": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
+            "animationId": "SCALE_ACTION____g5a1c585ceab4736ae40dd0f4e73f991",
+            "displayAnimationId": "SCALE_ACTION____g5a1c585ceab4736ae40dd0f4e73f991",
             "forkedPlatform": "all",
             "parentId": null,
             "callbackType": null,
-            "widgetPath": "frmCatogiries.flexHorizontal2"
+            "widgetPath": "frmCatogiries.flexHorizontal3"
         }, {
-            "id": "ADD_SNIPPET__ea1fefaa1db641c1923ae461749fd513",
+            "id": "ADD_SNIPPET__a06d92151c154787a18fe4c13c69bbdc",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "// alert(\"function invoked\")\nvar dummy = [];\nproductData.forEach( (element) => {\n  if(element.Category == \"sports\"){\n    dummy.push(element);\n  }\n} )\n\nfrmProducts.segProductList.setData(dummy);\nfrmProducts.show();",
-            "parentId": "SCALE_ACTION____b629c70c195b47f2b795135f9cffaed9",
+            "codeSnippet": "// alert(\"function invoked\")\nvar dummy = [];\nproductData.forEach( (element) => {\n  if(element.Category == \"nutrition\"){\n    dummy.push(element);\n  }\n} )\n\nfrmProducts.segProductList.setData(dummy);\nfrmProducts.show();",
+            "parentId": "SCALE_ACTION____g5a1c585ceab4736ae40dd0f4e73f991",
             "callbackType": "Callback"
         }]
     }

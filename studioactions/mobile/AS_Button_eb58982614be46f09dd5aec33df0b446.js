@@ -16,7 +16,6 @@ function AS_Button_eb58982614be46f09dd5aec33df0b446(eventobject) {
         "lblShare": "Shares"
     };
     data.push(onePost);
-    frmPostHistory.show();
     //kony.store.setItem("postData1" , JSON.stringify(data));
     // alert(JSON.parse(kony.store.getItem("postData1")));
 }

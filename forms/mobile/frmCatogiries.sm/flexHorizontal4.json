@@ -43,7 +43,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flexHorizontal4",
-    "ide_onClick": "AS_FlexContainer_fc8893bd127441388bae29b3a1653146",
+    "ide_onTouchStart": "AS_FlexContainer_i086a50df2ed45278287baaa69025729",
     "info": null,
     "isvisible": true,
     "kuid": "c8500ff3ef864104959097f768c057b8",

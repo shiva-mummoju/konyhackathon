@@ -42,7 +42,6 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flexHorizontal2",
-    "ide_onClick": "AS_FlexContainer_c099b08af06647628a8eaa54d633624d",
     "ide_onTouchStart": "AS_FlexContainer_e591248a3af34164a41c209515c0dcea",
     "info": null,
     "isvisible": true,

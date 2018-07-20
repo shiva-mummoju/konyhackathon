@@ -70,9 +70,7 @@
     ],
     "_top_": {
         "type": "string",
-
-        "value": "5%"
-
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -129,7 +127,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "singleselect",
     "selectionbehaviorconfig": {},
     "separatorcolor": "b8b6b803",

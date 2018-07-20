@@ -104,11 +104,9 @@
         "imgAddPost": {
             "__events__": {},
             "__info__": {
-<<<<<<< HEAD
+
                 "kuid": "a195ead7db094b89b4461c5c5a5e582a",
-=======
-                "kuid": "h1b07b03f47e400d8836bcde9424e06b",
->>>>>>> 37be7cf471e11ff07b51ebc4e07bbb53203a7116
+
                 "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
                 "wType": "Image"
             }
@@ -116,27 +114,19 @@
         "imgHistory": {
             "__events__": {},
             "__info__": {
-<<<<<<< HEAD
+
                 "kuid": "c787aba49d594643a6312031c96b17bb",
                 "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
                 "wType": "Image"
             }
-=======
-                "kuid": "c55cdfa596064a8984228dc382fb07a1",
-                "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
-                "wType": "Image"
-            },
-            "src": "baseline_today_white_18dp.png"
->>>>>>> 37be7cf471e11ff07b51ebc4e07bbb53203a7116
+
         },
         "imgProducts": {
             "__events__": {},
             "__info__": {
-<<<<<<< HEAD
+
                 "kuid": "e33841c04b494c798c9e19901ac06459",
-=======
-                "kuid": "b547fccd9d71467c859964d6e83e7406",
->>>>>>> 37be7cf471e11ff07b51ebc4e07bbb53203a7116
+
                 "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
                 "wType": "Image"
             }
@@ -144,11 +134,9 @@
         "imgUser": {
             "__events__": {},
             "__info__": {
-<<<<<<< HEAD
+
                 "kuid": "e2a06ebf4f60403084e626d864c4952a",
-=======
-                "kuid": "e11df2bc7b724f4ca864391e6c3eb7f8",
->>>>>>> 37be7cf471e11ff07b51ebc4e07bbb53203a7116
+
                 "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
                 "wType": "Image"
             }

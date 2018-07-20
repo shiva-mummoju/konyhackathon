@@ -1,7 +1,6 @@
 function AS_Image_dd53e55ffaf84beab721aa9ea172bdcf(eventobject, x, y) {
     function SCALE_ACTION____bfc381feb9f344e0b7b20b2be9ead83a_Callback() {}
-    frmCatogiries.componentBottomBar.flxSuperAdd.animate(
-    kony.ui.createAnimation({
+    frmCatogiries.componentBottomBar.flxSuperAdd.animate(kony.ui.createAnimation({
         "100": {
             "stepConfig": {
                 "timingFunction": kony.anim.EASE

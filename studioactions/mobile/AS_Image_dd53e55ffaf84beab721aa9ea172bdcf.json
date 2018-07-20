@@ -46,6 +46,7 @@
             "start": "Immediately",
             "animationId": "SCALE_ACTION____bfc381feb9f344e0b7b20b2be9ead83a",
             "displayAnimationId": "SCALE_ACTION____bfc381feb9f344e0b7b20b2be9ead83a",
+            "forkedPlatform": "all",
             "parentId": null,
             "callbackType": null,
             "widgetPath": "frmCatogiries.componentBottomBar.flxSuperAdd"
