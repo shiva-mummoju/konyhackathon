@@ -10,7 +10,7 @@
             },
             "lblProductDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Softens fabric during wash"
+                "text": "Softens fabric "
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -70,7 +70,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "62dp"
+        "value": "5%"
     },
     "_width_": {
         "type": "string",
@@ -127,7 +127,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "singleselect",
     "selectionbehaviorconfig": {},
     "separatorcolor": "b8b6b803",

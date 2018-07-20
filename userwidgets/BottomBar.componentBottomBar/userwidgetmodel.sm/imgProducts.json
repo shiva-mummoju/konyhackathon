@@ -35,9 +35,13 @@
         "value": "50dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "centery": {
         "type": "string",
-        "value": "49.75%"
+        "value": "50%"
     },
     "containerweight": 100,
     "context": {

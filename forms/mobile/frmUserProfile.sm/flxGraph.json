@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "170dp"
+        "value": "122dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -26,11 +26,11 @@
     "_skin_": "sd602a43d9a2472ababd9af5f90a65ae",
     "_top_": {
         "type": "string",
-        "value": "212dp"
+        "value": "34%"
     },
     "_width_": {
         "type": "string",
-        "value": "99.95%"
+        "value": "94.59%"
     },
     "allboxes": [],
     "autogrowmode": 0,

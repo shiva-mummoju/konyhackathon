@@ -87,14 +87,6 @@
                 "wType": "FlexContainer"
             }
         },
-        "flxSuperCoupons": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "cce9655be485467dac6b3ba324802b26",
-                "srcKUID": "afaa2ea5e80b4eb58ad1c77dd2cab8b2",
-                "wType": "FlexContainer"
-            }
-        },
         "flxSuperHistory": {
             "__events__": {
                 "ide_onClick": "AS_FlexContainer_g7dff492813648fda3fe7f622100c9ea"
@@ -123,46 +115,6 @@
                 "kuid": "c498b16b44d04ab9afbd2c9ed123fa6f",
                 "srcKUID": "bd602b0d65164c72bbfd010aaa0c3363",
                 "wType": "FlexContainer"
-            }
-        },
-        "imgAddPost": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "i1722b2d34294b9ea7bc30c82eaeccf0",
-                "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
-                "wType": "Image"
-            }
-        },
-        "imgCoupons": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "bb59685c104747cc9374f78adc87faf3",
-                "srcKUID": "g8dab9714f4746ca972c78fce0928232",
-                "wType": "Image"
-            }
-        },
-        "imgHistory": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "f3eb244787204eb7a209812d1635daa9",
-                "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
-                "wType": "Image"
-            }
-        },
-        "imgProducts": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "a157782672bb4e9f9edd7858e8f02d0f",
-                "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
-                "wType": "Image"
-            }
-        },
-        "imgUser": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "g9bac0606af8465b8b15c6cd190e438b",
-                "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
-                "wType": "Image"
             }
         }
     },

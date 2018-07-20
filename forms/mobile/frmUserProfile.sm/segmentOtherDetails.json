@@ -1,12 +1,13 @@
 {
     "@class": "com.kony.gen.viz.model.container.KVizSegment2",
     "DNDConfig": null,
+    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_data_": [
         {
             "imgConsumer": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "tra.png"
             },
             "lblConsumerName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -18,13 +19,13 @@
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Shampoo"
+                "text": "Shampo"
             }
         },
         {
             "imgConsumer": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "tra.png"
             },
             "lblConsumerName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -36,7 +37,61 @@
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Tooth Brush"
+                "text": "Brush"
+            }
+        },
+        {
+            "imgConsumer": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblConsumerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgConsumer": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblConsumerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgConsumer": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblConsumerName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         }
     ],
@@ -47,7 +102,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -64,7 +119,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "385dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -73,7 +128,7 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "01",
+    "counter": "04",
     "focusedindex": null,
     "focuseditem": null,
     "groupcells": false,
@@ -101,11 +156,11 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "frmUserProfile",
+    "parent": "flxSegmentScrollView",
     "pf": "frmUserProfile",
     "retainselection": false,
     "rowTemplateId": "a2c244ef4f8a45859bcf42bbb5a6e0af",
-    "rowcounter": 1,
+    "rowcounter": 4,
     "rowfocusskin": "sf617106bd0640b0abda815910b6d666",
     "rowskin": "s80a2c1572c447898f97c1113c85f148",
     "rowtemplate": "flxTrasactions",
@@ -117,7 +172,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "default",
     "separatorcolor": "64646400",
     "separatorrequired": true,

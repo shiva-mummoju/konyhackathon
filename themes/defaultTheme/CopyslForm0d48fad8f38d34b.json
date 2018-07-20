@@ -1,6 +1,6 @@
 {
-  "background_color": "00275aff",
-  "bg_type": "one",
+  "background_image": "androidback.png",
+  "bg_type": "image",
   "border_color": "ffffffff",
   "isDefaultSkin": false,
   "kuid": "sdba34c76abc4cc295b8e04724a0d662",
