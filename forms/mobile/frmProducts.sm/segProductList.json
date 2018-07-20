@@ -6,43 +6,43 @@
         {
             "imgProduct": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home1.jpg"
             },
             "lblProductDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Softens fabric during wash"
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Fabric Softner"
             }
         },
         {
             "imgProduct": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home2.jpg"
             },
             "lblProductDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Cleans Cloths"
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Detergent"
             }
         },
         {
             "imgProduct": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home3.jpg"
             },
             "lblProductDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Description"
             },
             "lblProductName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Shampoo"
             }
         }
     ],

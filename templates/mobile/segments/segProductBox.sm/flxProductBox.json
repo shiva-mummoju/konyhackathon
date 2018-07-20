@@ -32,6 +32,7 @@
     "enablescrolling": true,
     "id": "flxProductBox",
     "info": null,
+    "isTemplate": true,
     "isvisible": true,
     "kuid": "ea8740a0b16b4688a0fee8dae0df229d",
     "layouttype": 3,

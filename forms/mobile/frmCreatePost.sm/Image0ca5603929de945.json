@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "125dp"
+        "value": "150dp"
     },
     "_left_": {
         "type": "string",
-        "value": "30dp"
+        "value": "43dp"
     },
     "_margin_": [
         0,
@@ -27,33 +27,28 @@
     "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
-        "value": "35dp"
+        "value": "24dp"
     },
     "_width_": {
         "type": "string",
-        "value": "110dp"
+        "value": "150dp"
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
-    "containerId": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "platform": "android",
-        "templateType": "segments",
+        "formID": "frmCreatePost",
+        "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgProduct",
-    "imagescalemode": 0,
+    "id": "Image0ca5603929de945",
+    "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "i8c1d7d8611e42aba8775e1fb990d72d",
+    "kuid": "d4221f1e39574a379ac7e9219b6cc55d",
     "name": "kony.ui.Image2",
-    "parent": "flxProductBox",
-    "pf": "segProductBox",
+    "parent": "FlexContainer0hfe8fb2c5c8445",
+    "pf": "frmCreatePost",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,

@@ -40,7 +40,7 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "j345dbfff5b4401c86b055ab711429c2",
+                "kuid": "jb86894460a04e9c9dda9755d63f9f44",
                 "srcKUID": "d8624ff5fef24ca78649753806dd6d0b",
                 "wType": "FlexContainer"
             },
@@ -57,7 +57,7 @@
         "imgTopBarLeft": {
             "__events__": {},
             "__info__": {
-                "kuid": "ccd73074617e4605b8d3deb2901c1b13",
+                "kuid": "h6fea244648b4072bd601a7b1d2f69c4",
                 "srcKUID": "ecb7e4368a8d45d1911818a64de0849b",
                 "wType": "Image"
             }
@@ -65,7 +65,7 @@
         "imgTopBarRight": {
             "__events__": {},
             "__info__": {
-                "kuid": "d9b721f1d7434c30b422867bc4e265b8",
+                "kuid": "h20d7b843e3546f39884739a67480c97",
                 "srcKUID": "d771be3c619b4ca9aee5b9a94e434375",
                 "wType": "Image"
             }
@@ -73,23 +73,23 @@
         "lblFormName": {
             "__events__": {},
             "__info__": {
-                "kuid": "c781c9b8c3d847c8a95625bf3c03ce63",
+                "kuid": "hd1442d1196d430d8d41dc393ff3a043",
                 "srcKUID": "jb57f2c725064f01945519721b246bc7",
                 "wType": "Label"
             },
-            "text": "Products"
+            "text": "Product Info"
         }
     },
     "id": "componentTopBar",
     "info": null,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "j345dbfff5b4401c86b055ab711429c2",
+    "kuid": "jb86894460a04e9c9dda9755d63f9f44",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "frmProducts",
-    "pf": "frmProducts",
+    "parent": "FlexContainer0c46d8617baf84e",
+    "pf": "frmProductDescription",
     "snaptogrid": true,
     "sourceUserWidget": "d8624ff5fef24ca78649753806dd6d0b",
     "wType": "UserWidgetInstance",

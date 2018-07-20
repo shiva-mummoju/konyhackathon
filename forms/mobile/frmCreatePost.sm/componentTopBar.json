@@ -1,6 +1,7 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
+    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_children_": [],
     "_height_": "8%",
@@ -40,7 +41,7 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "j345dbfff5b4401c86b055ab711429c2",
+                "kuid": "dad4f04f98554f468ea4de83ac84f7a0",
                 "srcKUID": "d8624ff5fef24ca78649753806dd6d0b",
                 "wType": "FlexContainer"
             },
@@ -57,7 +58,7 @@
         "imgTopBarLeft": {
             "__events__": {},
             "__info__": {
-                "kuid": "ccd73074617e4605b8d3deb2901c1b13",
+                "kuid": "b2e0bc86f988410dbb2d7663f4b0ba74",
                 "srcKUID": "ecb7e4368a8d45d1911818a64de0849b",
                 "wType": "Image"
             }
@@ -65,7 +66,7 @@
         "imgTopBarRight": {
             "__events__": {},
             "__info__": {
-                "kuid": "d9b721f1d7434c30b422867bc4e265b8",
+                "kuid": "ca54f32d54e941cdb9dca2c22fef4ac2",
                 "srcKUID": "d771be3c619b4ca9aee5b9a94e434375",
                 "wType": "Image"
             }
@@ -73,23 +74,22 @@
         "lblFormName": {
             "__events__": {},
             "__info__": {
-                "kuid": "c781c9b8c3d847c8a95625bf3c03ce63",
+                "kuid": "e6345cc51630494c94f54fdca33977ae",
                 "srcKUID": "jb57f2c725064f01945519721b246bc7",
                 "wType": "Label"
-            },
-            "text": "Products"
+            }
         }
     },
     "id": "componentTopBar",
     "info": null,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "j345dbfff5b4401c86b055ab711429c2",
+    "kuid": "be8c5760e5314db6b998ade13102d868",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "frmProducts",
-    "pf": "frmProducts",
+    "parent": "frmCreatePost",
+    "pf": "frmCreatePost",
     "snaptogrid": true,
     "sourceUserWidget": "d8624ff5fef24ca78649753806dd6d0b",
     "wType": "UserWidgetInstance",
