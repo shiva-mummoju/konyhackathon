@@ -3,7 +3,7 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_children_": [],
-    "_height_": "10%",
+    "_height_": "8%",
     "_left_": {
         "type": "string",
         "value": "0dp"
@@ -23,10 +23,11 @@
     ],
     "_percent_": true,
     "_render_": true,
-    "_skin_": "sf315405b5004a77bff02788ca62a1bf",
+    "_right_": "0dp",
+    "_skin_": "sfe36635c3194c3fbef4ca6e6c5b31dc",
     "_top_": {
         "type": "string",
-        "value": "553dp"
+        "value": "0dp"
     },
     "_width_": "100%",
     "areflexpropsreferenced": false,
@@ -35,12 +36,12 @@
     "clipbounds": true,
     "containerweight": 0,
     "dataDiffs": {
-        "componentBottomBar": {
+        "componentTopBar": {
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "i9f5b0d8e7f8477f8b6956b391abd138",
-                "srcKUID": "ed8c9eb96d7349d68141edb0c49cff2a",
+                "kuid": "g0570e053d914dde9c09fb63cd995edc",
+                "srcKUID": "d8624ff5fef24ca78649753806dd6d0b",
                 "wType": "FlexContainer"
             },
             "left": {
@@ -49,63 +50,61 @@
             },
             "top": {
                 "type": "string",
-                "value": "553dp"
+                "value": "0dp"
             },
-            "zIndex": 100
+            "zIndex": 1
         },
-        "imgAddPost": {
+        "imgTopBarLeft": {
             "__events__": {},
             "__info__": {
-                "kuid": "f053e8be4aae40b5837b1c02d2482a31",
-                "srcKUID": "d69c23dd4ecd451e80e5faf999772af8",
+                "kuid": "id24e66028254253b521b0c2f2b87e04",
+                "srcKUID": "ecb7e4368a8d45d1911818a64de0849b",
                 "wType": "Image"
-            }
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50.00%"
+            },
+            "left": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "src": "baseline_arrow_back_black_18dp.png"
         },
-        "imgCoupons": {
+        "imgTopBarRight": {
             "__events__": {},
             "__info__": {
-                "kuid": "e0c36434a36d4b54bc087b8bc7bc62b3",
-                "srcKUID": "g8dab9714f4746ca972c78fce0928232",
+                "kuid": "a7c5f1428b9646cd9e1338e1c2f6386d",
+                "srcKUID": "d771be3c619b4ca9aee5b9a94e434375",
                 "wType": "Image"
+            },
+            "vizProps": {
+                "hide": true
             }
         },
-        "imgHistory": {
+        "lblFormName": {
             "__events__": {},
             "__info__": {
-                "kuid": "bc5bfedef3184ef089013da357bfabde",
-                "srcKUID": "c2bc9b9c5037432f8d7aeb988c43ee32",
-                "wType": "Image"
-            }
-        },
-        "imgProducts": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "d228c61def1743629eeb877699b3576b",
-                "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
-                "wType": "Image"
-            }
-        },
-        "imgUser": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "i69a7927277c427696a69d0c67010919",
-                "srcKUID": "ed2cdc3082a24b5cbaad06a1aa0a0f61",
-                "wType": "Image"
-            }
+                "kuid": "ef7f7402eb684b59947671be59630920",
+                "srcKUID": "jb57f2c725064f01945519721b246bc7",
+                "wType": "Label"
+            },
+            "text": "Posts"
         }
     },
-    "id": "componentBottomBar",
+    "id": "componentTopBar",
     "info": null,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "i9f5b0d8e7f8477f8b6956b391abd138",
-    "layouttype": 3,
+    "kuid": "g0570e053d914dde9c09fb63cd995edc",
+    "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
     "parent": "frmProductHistory",
     "pf": "frmProductHistory",
+    "snapgridsize": 10,
     "snaptogrid": true,
-    "sourceUserWidget": "ed8c9eb96d7349d68141edb0c49cff2a",
+    "sourceUserWidget": "d8624ff5fef24ca78649753806dd6d0b",
     "wType": "UserWidgetInstance",
-    "zindex": 100
+    "zindex": 1
 }

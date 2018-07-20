@@ -30,4 +30,14 @@
     <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
     <attributes name="mwportkey" value="80"/>
     <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="lastmodifiedtime" value="0"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="androidenablejsbindings" value="false"/>
+    <attributes name="cloud_url" value="https://training.konycloud.com"/>
+    <attributes name="cloud_env_name" value="Training - Kony-TrngMobileFabric"/>
+    <attributes name="cloud_env_GUID" value="10e11b02-97a1-45e4-9eec-bfc5c0a2af9c"/>
+    <attributes name="cloud_account_id" value="100000507"/>
+    <attributes name="cloud_account_guid" value="dde09d15-b97d-4af6-b9ce-01133e3979f3"/>
 </properties>

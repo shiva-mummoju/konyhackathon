@@ -1,10 +1,9 @@
 {
     "DNDConfig": null,
-    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "10%"
+        "value": "503dp"
     },
     "_left_": {
         "type": "string",
@@ -24,47 +23,36 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sb2c80ce4b18405aa571962187f7393c",
+    "_skin_": "s777f81865bf43099a93274e0c813365",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "8%"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": true,
-    "allowverticalbounce": true,
-    "bounces": true,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "btnFacebook",
-        "btnTwitter",
-        "btnPinterest",
-        "CopybtnTwitter0a95c08af574a4e"
+        "flxPlatformPallete",
+        "segPosts"
     ],
     "clipbounds": true,
     "containerweight": 100,
-    "decelerat": false,
-    "dragg": false,
     "enablescrolling": true,
-    "horizontalscrollindicator": true,
-    "id": "flxPlatformPallete",
+    "id": "flxPosts",
     "info": null,
     "isvisible": true,
-    "kuid": "e4a255c5851e4d0ebeabd7a586aee2be",
-    "layouttype": 2,
-    "name": "kony.ui.FlexScrollContainer",
-    "pagingenabled": false,
-    "parent": "flxPosts",
+    "kuid": "da5e30f0ed394f1c9ca5ef01fff81b79",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmProductHistory",
     "pf": "frmProductHistory",
-    "scrolldirection": 1,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "track": false,
-    "verticalscrollindicator": true,
-    "wType": "FlexScrollContainer",
+    "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1
 }
