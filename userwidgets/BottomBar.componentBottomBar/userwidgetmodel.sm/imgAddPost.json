@@ -10,7 +10,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "5.00%"
     },
     "_margin_": [
         0,
@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50.00%"
+        "value": "50%"
     },
     "containerweight": 100,
     "context": {
@@ -48,12 +48,13 @@
         "topLevelBox": null
     },
     "id": "imgAddPost",
+    "ide_onTouchStart": "AS_Image_h4bf91b6768b44a0ba12b90d5736b2c1",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
     "kuid": "d69c23dd4ecd451e80e5faf999772af8",
     "name": "kony.ui.Image2",
-    "parent": "componentBottomBar",
+    "parent": "flxSuperAdd",
     "pf": "userwidgetmodel",
     "srcType": 1,
     "wType": "Image",

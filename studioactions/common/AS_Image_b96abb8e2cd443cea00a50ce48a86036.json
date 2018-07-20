@@ -18,6 +18,12 @@
             "KUID": "u504af98f0084d91889c478b1916573f"
         },
         "language": "js",
-        "actions": []
+        "actions": [{
+            "id": "ADD_SNIPPET__d832bbf697a94146bbf8e9535ce92777",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmCategiries.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
     }
 }

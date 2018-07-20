@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "54.26%"
+        "value": "50%"
     },
     "containerweight": 100,
     "context": {
@@ -48,12 +48,13 @@
         "topLevelBox": null
     },
     "id": "imgCoupons",
+    "ide_onTouchStart": "AS_Image_h3471b7fe0624fafa3061c902c45122d",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
     "kuid": "g8dab9714f4746ca972c78fce0928232",
     "name": "kony.ui.Image2",
-    "parent": "componentBottomBar",
+    "parent": "flxSuperCoupons",
     "pf": "userwidgetmodel",
     "srcType": 1,
     "wType": "Image",

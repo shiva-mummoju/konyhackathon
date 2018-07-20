@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_bb87efd77e3544b997f105a09db27c6a": {
+        "id": "AS_FlexContainer_bb87efd77e3544b997f105a09db27c6a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProducts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9df8e45fee74102a8f0faab383ea215"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f345f9be84ba4f9a9fdb657f58f6a9e2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCatogiries",
+            "formKUID": "ebf77876a4474f269457f1d3224f849a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}
