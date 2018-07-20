@@ -40,7 +40,8 @@
         "value": "50.00%"
     },
     "children": [
-        "Image0ca5603929de945"
+        "Image0ca5603929de945",
+        "btnPost"
     ],
     "clipbounds": true,
     "containerweight": 100,
