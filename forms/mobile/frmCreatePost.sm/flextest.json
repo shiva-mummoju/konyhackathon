@@ -2,7 +2,10 @@
     "DNDConfig": null,
     "__markedForDelete__": true,
     "__parentReadjusting__": false,
-    "_height_": "20.05%",
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
     "_left_": {
         "type": "string",
         "value": "10%"
