@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "80%"
+        "value": "90.03%"
     },
     "_left_": "0dp",
     "_margin_": [
@@ -21,15 +21,19 @@
     ],
     "_percent_": true,
     "_skin_": "s58016dd6f594109b2b5bacc24e8ef90",
-    "_top_": "10.00%",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
     "_width_": "100%",
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "lblProductName",
         "lblProductDescription",
-        "flxProductGraph",
-        "Label0d656be25c1d64d"
+        "Label0d656be25c1d64d",
+        "flxProductGraph"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -38,7 +42,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "c012eb18ac3846eba937dabb2ab47a88",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "frmProductDescription",
     "pf": "frmProductDescription",

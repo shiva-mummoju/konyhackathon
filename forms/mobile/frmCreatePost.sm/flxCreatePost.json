@@ -41,7 +41,8 @@
         "txtAreaDescription",
         "txtPostTitle",
         "txtfield",
-        "btnPost"
+        "btnPost",
+        "btnPostSocialMedia"
     ],
     "clipbounds": true,
     "containerweight": 100,

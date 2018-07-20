@@ -1,4 +1,4 @@
-function AS_Button_eb58982614be46f09dd5aec33df0b446(eventobject) {
+function AS_Button_c13aa048103b4fc7a212e5930e246edf(eventobject) {
     // data = JSON.parse(kony.store.getItem("postData1"));
     if (!data) {
         data = [];
@@ -16,7 +16,11 @@ function AS_Button_eb58982614be46f09dd5aec33df0b446(eventobject) {
         "lblShare": "Shares"
     };
     data.push(onePost);
-    frmPostHistory.show();
     //kony.store.setItem("postData1" , JSON.stringify(data));
     // alert(JSON.parse(kony.store.getItem("postData1")));
+    frmCreatePost.txtfield["text"] = "";
+    frmCreatePost.imgPost["src"] = "takephoto.png";
+    frmCreatePost.txtAreaDescription["text"] = "";
+    frmCreatePost.txtPostTitle["text"] = "";
+    frmPostHistory.show();
 }

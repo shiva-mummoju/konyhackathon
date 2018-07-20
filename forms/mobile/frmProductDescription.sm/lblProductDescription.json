@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "140dp"
-    },
     "_margin_": [
         1,
         1,
@@ -26,7 +22,7 @@
     "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "103dp"
+        "value": "10%"
     },
     "_width_": {
         "type": "string",
@@ -42,14 +38,10 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.00%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "30%"
+        "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "id": "lblProductDescription",
     "info": null,
     "ipad": {

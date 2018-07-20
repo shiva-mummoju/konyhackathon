@@ -123,7 +123,17 @@
                 "kuid": "a0c7d6206ead4f659fd6016fd714e933",
                 "srcKUID": "ja97ee1c97f04d7eaee04114c99798e4",
                 "wType": "Image"
-            }
+            },
+            "height": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "src": "baseline_shopping_cart_white_18dp.png",
+            "width": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "zIndex": 10
         },
         "imgUser": {
             "__events__": {},

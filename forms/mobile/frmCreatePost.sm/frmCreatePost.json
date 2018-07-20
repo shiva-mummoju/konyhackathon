@@ -30,8 +30,7 @@
         "flxCreatePost",
         "flxinvisible",
         "flxSocialMedia",
-        "componentBottomBar",
-        "Button0c4b77e109ab847"
+        "componentBottomBar"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -42,6 +41,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmCreatePost",
+    "ide_preShow": "AS_Form_d9d71585bfa14b02850ca40dec9f7a36",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
