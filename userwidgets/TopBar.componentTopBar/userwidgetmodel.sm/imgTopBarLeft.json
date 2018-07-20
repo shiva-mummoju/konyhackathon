@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "33dp"
     },
     "_left_": {
         "type": "string",
@@ -42,6 +42,7 @@
     "context": {
         "channel": "mobile",
         "formID": "uwuf1cf0d71b76483583b361a0a0f7ae49",
+        "platform": "android",
         "templateType": "userwidgets",
         "topLevelBox": null
     },
